@@ -1,0 +1,9 @@
+2017-08-25 10:37:44: -- Analysis Started by On File Change Incremental
+2017-08-25 10:37:44: 变更：3， 冲突：， 复制时间：， 复制状态：， 错误： , All: 110
+2017-08-25 10:37:44: Left to Right: Copy File: 3 
+2017-08-25 10:37:44: == Sync Started by On File Change Incremental
+2017-08-25 10:37:45: 新建复制 'D:/Projects/SymbianPython/python/LIB/CFileMan.pyd' -> 'mtp://S60_Handset/Memory card (ESD-ISO)/PYTHON/LIB/CFileMan.pyd'
+2017-08-25 10:37:45: 新建复制 'D:/Projects/SymbianPython/python/LIB/CFileMan_api_en.txt' -> 'mtp://S60_Handset/Memory card (ESD-ISO)/PYTHON/LIB/CFileMan_api_en.txt'
+2017-08-25 10:37:45: 新建复制 'D:/Projects/SymbianPython/python/LIB/kf_CFileMan.pyd' -> 'mtp://S60_Handset/Memory card (ESD-ISO)/PYTHON/LIB/kf_CFileMan.pyd'
+2017-08-25 10:37:45: ===== ：同步完毕。时间：00:00:01，速度： 22.1 KB/s =====, 项目同步未必： 3，错误： 
+2017-08-25 10:37:45: 

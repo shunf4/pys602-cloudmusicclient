@@ -49,7 +49,7 @@ logs(u'splashScreen Loaded')
 # import sys
 # import os
 
-import api
+import neapi
 import playlist
 import httplib
 import socket
@@ -64,7 +64,7 @@ import audio
 import time
 import copy
 import math
-import simplejson as json
+import ujson as json
 
 logs(u'modules Imported')
 '''

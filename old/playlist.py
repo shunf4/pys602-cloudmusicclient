@@ -86,7 +86,7 @@ def procTLyric(lrcDict, hasTLyric, testParam = False):
                     lrcDict[totaltime] = (lrcDict[totaltime][0], z[len(z)-1])
     return lrcDict
     
-def finalProcLyric(lrcDict):
+def sortLyric(lrcDict):
     lrcDictKeySorted = list(lrcDict)
     lrcDictKeySorted.sort()
     lrcDictVarSorted = map(lambda x:lrcDict[x], lrcDictKeySorted)
@@ -225,7 +225,7 @@ class Playlist:
                     lrcDict = dict(lrcList)
                     if hasTLyric:
                         lrcDict = procTLyric(lrcDict, hasTLyric)
-                    lrcList = finalProcLyric(lrcDict)
+                    lrcList = sortLyric(lrcDict)
             else:
                 #无歌词，解析不能
                 if 'nolyric' in lyricResult and lyricResult['nolyric']:

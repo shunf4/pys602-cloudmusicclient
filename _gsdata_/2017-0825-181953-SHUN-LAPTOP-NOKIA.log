@@ -1,0 +1,11 @@
+2017-08-25 18:19:53: -- Analysis Started by User Command
+2017-08-25 18:19:53: 变更：5， 冲突：， 复制时间：， 复制状态：， 错误： , All: 117
+2017-08-25 18:19:53: Left to Right: Copy File: 5 
+2017-08-25 18:19:53: == Sync Started by User Command
+2017-08-25 18:19:54: 新建复制 'D:/Projects/SymbianPython/python/3.demo.py' -> 'mtp://S60_Handset/Memory card (ESD-ISO)/PYTHON/3.demo.py'
+2017-08-25 18:19:54: 新建复制 'D:/Projects/SymbianPython/python/default.py' -> 'mtp://S60_Handset/Memory card (ESD-ISO)/PYTHON/default.py'
+2017-08-25 18:19:54: 覆盖复制 'D:/Projects/SymbianPython/python/neapi.py' -> 'mtp://S60_Handset/Memory card (ESD-ISO)/PYTHON/neapi.py'
+2017-08-25 18:19:55: 覆盖复制 'D:/Projects/SymbianPython/python/tools.py' -> 'mtp://S60_Handset/Memory card (ESD-ISO)/PYTHON/tools.py'
+2017-08-25 18:19:55: 覆盖复制 'D:/Projects/SymbianPython/python/util.py' -> 'mtp://S60_Handset/Memory card (ESD-ISO)/PYTHON/util.py'
+2017-08-25 18:19:55: ===== ：同步完毕。时间：00:00:02，速度： 70.8 KB/s =====, 项目同步未必： 5，错误： 
+2017-08-25 18:19:55: 

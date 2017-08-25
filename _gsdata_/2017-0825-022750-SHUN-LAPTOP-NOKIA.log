@@ -1,0 +1,8 @@
+2017-08-25 02:27:52: -- Analysis Started by On File Change Incremental
+2017-08-25 02:27:52: /LIB/kf__appuifw2.pyd: 警告：旧文件将替换新文件
+2017-08-25 02:27:52: 变更：1， 冲突：， 复制时间：， 复制状态：， 错误： , All: 105
+2017-08-25 02:27:52: Left to Right: Copy File: 1 
+2017-08-25 02:27:52: == Sync Started by On File Change Incremental
+2017-08-25 02:27:52: 覆盖复制 'D:/Projects/SymbianPython/python/LIB/kf__appuifw2.pyd' -> 'mtp://S60_Handset/Memory card (ESD-ISO)/PYTHON/LIB/kf__appuifw2.pyd'
+2017-08-25 02:27:52: ===== ：同步完毕。时间：00:00:00，速度： 0 字节/s =====, 项目同步未必： 1，错误： 
+2017-08-25 02:27:52: 

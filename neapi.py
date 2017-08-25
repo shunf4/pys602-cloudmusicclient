@@ -22,6 +22,11 @@ except ImportError:
 import base64
 import hashlib
 
+def noneThen(sth, sth2):
+    if sth is not None:
+        return sth
+    return sth2
+
 COOKIE_APPVER = 'appver=2.7.1;'
 CSRF_RE = re.compile(r'(?<=__csrf=)(\w+)')
 UID_RE = re.compile(r'(?<=NETEASE\_WDA\_UID=).*(?=#\|)')
@@ -73,14 +78,17 @@ URL_NEAPIS = {
             'songName': lambda obj: obj['name'],
             'songlistSongsID': lambda obj: [x['id'] for x in obj['recommend']],
             'songlistSongsName': lambda obj: [x['name'] for x in obj['recommend']],
+            'songDuration': lambda obj: obj['duration'],
             #'songlistSongsID2': lambda obj: [map(lambda x:song.get(x).get('id'), [u"bMusic",u"lMusic", u"mMusic", u"hMusic"]) for song in obj['recommend']],
             'songID': lambda obj: obj['id'],
             'songID2': lambda obj: map(lambda x:obj.get(x,{}).get('id'), [u"bMusic",u"lMusic", u"mMusic", u"hMusic"]),
             'songAlbumName': lambda obj: obj['album']['name'],
             'songAlbumID': lambda obj: obj['album']['id'],
-            'songAlbumCoverURL': lambda obj: obj['album']['picUr;'],
+            'songAlbumCoverURL': lambda obj: obj['album']['picUrl'],
             'songArtistsName': lambda obj: [artist['name'] for artist in obj.get('artists',[])],
             'songArtistsID': lambda obj: [artist['id'] for artist in obj.get('artists',[])],
+            'songTrackNo': lambda obj: obj["no"],
+            'songAlias': lambda obj: noneThen(obj["alias"], []),
         })],
     "getFMSonglist" : 
         [("/weapi/v1/radio/get", NEAPI_METHOD_POST_ENCRYPTED, {
@@ -94,9 +102,12 @@ URL_NEAPIS = {
             'songID2': lambda obj: map(lambda x:obj.get(x,{}).get('id'), [u"bMusic",u"lMusic", u"mMusic", u"hMusic"]),
             'songAlbumName': lambda obj: obj['album']['name'],
             'songAlbumID': lambda obj: obj['album']['id'],
+            'songDuration': lambda obj: obj['duration'],
             'songAlbumCoverURL': lambda obj: obj['album']['picUrl'],
             'songArtistsName': lambda obj: [artist['name'] for artist in obj.get('artists',[])],
             'songArtistsID': lambda obj: [artist['id'] for artist in obj.get('artists',[])],
+            'songTrackNo': lambda obj: obj["no"],
+            'songAlias': lambda obj: noneThen(obj["alias"]),
         })],
     "NE_likeFMSong" : 
         [("/weapi/v1/radio/like", NEAPI_METHOD_POST_ENCRYPTED, {})],
@@ -127,8 +138,11 @@ URL_NEAPIS = {
             'songAlbumName': lambda obj: obj['al']['name'],
             'songAlbumID': lambda obj: obj['al']['id'],
             'songAlbumCoverURL': lambda obj: obj['al']['picUrl'],
+            'songDuration': lambda obj: obj['dt'],
             'songArtistsName': lambda obj: [artist['name'] for artist in obj.get('ar',[])],
             'songArtistsID': lambda obj: [artist['id'] for artist in obj.get('ar',[])],
+            'songTrackNo': lambda obj: obj["no"],
+            'songAlias': lambda obj: noneThen(obj["a"]),
         }
         )
         ],
@@ -153,9 +167,12 @@ URL_NEAPIS = {
             'songID2': lambda obj: map(lambda x:obj.get(x + "Music",{}).get('dfsId'), [u"b",u"l", u"m", u"h"]),
             'songAlbumName': lambda obj: obj['album']['name'],
             'songAlbumID': lambda obj: obj['album']['id'],
+            'songDuration': lambda obj: obj['duration'],
             'songAlbumCoverURL': lambda obj: obj['album']['picUrl'],
             'songArtistsName': lambda obj: [artist['name'] for artist in obj.get('artists',[])],
             'songArtistsID': lambda obj: [artist['id'] for artist in obj.get('artists',[])],
+            'songTrackNo': lambda obj: obj["no"],
+            'songAlias': lambda obj: noneThen(obj["alias"]),
         }
         ),
         ("/weapi/v1/album/%s", NEAPI_METHOD_POST_ENCRYPTED, 
@@ -176,9 +193,12 @@ URL_NEAPIS = {
             'songID2': lambda obj: map(lambda x:obj.get(x + "",{}).get('fid'), [u"b",u"l", u"m", u"h"]),
             'songAlbumName': lambda obj: obj['al']['name'],
             'songAlbumID': lambda obj: obj['al']['id'],
+            'songDuration': lambda obj: obj['dt'],
             'songAlbumCoverURL': lambda obj: obj['al']['picUrl'],
             'songArtistsName': lambda obj: [artist['name'] for artist in obj.get('ar',[])],
             'songArtistsID': lambda obj: [artist['id'] for artist in obj.get('ar',[])],
+            'songTrackNo': lambda obj: obj["no"],
+            'songAlias': lambda obj: noneThen(obj["a"]),
         }
         )
         ],
@@ -196,9 +216,12 @@ URL_NEAPIS = {
             'songID2': lambda obj: map(lambda x:obj.get(x + "Music",{}).get('dfsId'), [u"b",u"l", u"m", u"h"]),
             'songAlbumName': lambda obj: obj['album']['name'],
             'songAlbumID': lambda obj: obj['album']['id'],
+            'songDuration': lambda obj: obj['duration'],
             'songAlbumCoverURL': lambda obj: obj['album']['picUrl'],
             'songArtistsName': lambda obj: [artist['name'] for artist in obj.get('artists',[])],
             'songArtistsID': lambda obj: [artist['id'] for artist in obj.get('artists',[])],
+            'songTrackNo': lambda obj: obj["no"],
+            'songAlias': lambda obj: noneThen(obj["alias"]),
         }
         ),
         ("/weapi/v3/song/detail", NEAPI_METHOD_POST_ENCRYPTED, 
@@ -213,10 +236,13 @@ URL_NEAPIS = {
             'songID': lambda obj: obj['id'],
             'songID2': lambda obj: map(lambda x:obj.get(x + "",{}).get('dfsId'), [u"b",u"l", u"m", u"h"]),
             'songAlbumName': lambda obj: obj['al']['name'],
+            'songDuration': lambda obj: obj['dt'],
             'songAlbumID': lambda obj: obj['al']['id'],
             'songAlbumCoverURL': lambda obj: obj['al']['picUrl'],
             'songArtistsName': lambda obj: [artist['name'] for artist in obj.get('ar',[])],
             'songArtistsID': lambda obj: [artist['id'] for artist in obj.get('ar',[])],
+            'songTrackNo': lambda obj: obj["no"],
+            'songAlias': lambda obj: noneThen(obj["a"]),
         }
         )
         ],
@@ -283,7 +309,7 @@ HTTP_BLOCKSIZE =  8192
 
 HEADER_BASE = {'Referer': 'http://music.163.com/','Content-Type':"application/x-www-form-urlencoded"}
 
-tmpDebug = logging.Logger('Temporary')
+tmpDebug = logging.getLogger('Temporary')
 tmpDebug.setLevel(logging.DEBUG)
 tmpH = logging.StreamHandler()
 tmpH.setFormatter(LOG_FORMATTER)
@@ -505,6 +531,7 @@ class NEApi:
             self.apiLog.debug("LocalData Read/Write Function Set to be %s/%s." % (self.loadLocalDataFunc, self.writeLocalDataFunc))
             self._loadLocalData()
             d(u"loaded LocalData : %s" % self.localData)
+        self.setReadCallback(inConfig["readCallback"])
 
     def _loadLocalData(self):
         self.localData = self.loadLocalDataFunc()
@@ -1078,3 +1105,59 @@ class NEApi:
             raise NEApiError, u"Illegal Operation!"
         
         return
+
+    def compat_getComments(self, songId, commentThreadId = '_', offset=0, total=False, limit=10):
+        #此处commentThreadId赋值为R_AL_3_XXX之类的可以获取其他种类的评论(歌手/专辑/歌单)
+        if commentThreadId == '_':
+            commentThreadId = 'R_SO_4_%s' % songId
+        commUrl = '/weapi/v1/resource/comments/%s' % commentThreadId
+        commReq = {
+            'offset' : offset,
+            'total' : total,
+            'limit' : limit
+        }
+        (commCookie, commResult) = self._encHTTP(commUrl, commReq)
+        commResult = json.loads(commResult)
+        hotCommList = commResult.get('hotComments')
+        ordCommList = commResult.get('comments')
+        totalNum = commResult.get('total')
+        haveMore = commResult.get('more')
+        return (hotCommList, ordCommList, totalNum, haveMore)
+    
+    def compat_favorComment(self, commentId, threadId, favor = True):
+        #必须提供threadId，否则按默认的歌曲来
+        favorReq = {
+        'commentId' : commentId,
+        'threadId' : threadId,
+        'like' : favor
+        }
+        favorUrl = '/weapi/v1/comment/%slike' % ('un','')[favor]
+        favorResult = json.loads(self._encHTTP(favorUrl, favorReq)[1])
+        message = u''
+        favorSuc = False
+        if 'message' in favorResult:
+            message = favorResult['message']
+        else:
+            message = str(favorResult.get('code'))
+            if favorResult.get('code') == 200:
+                favorSuc = True
+        return (favorSuc, message)
+
+    #1 单曲
+    #10 专辑
+    #100 歌手
+    #1000 歌单
+    #1002 用户
+    def compat_search(self, keyword, type, limit=10, offset=0):
+    #待改进API，旧的API只能显示10条
+
+        searchReq = {
+        's' : keyword,
+        'type' : type,
+        'limit' : limit,
+        'offset' : offset
+        }
+        searchURL = '/api/search/get'
+        searchResult = json.loads(self._myHTTP(searchURL, 'POST', urllib.urlencode(searchReq))[1])['result']
+        
+        return searchResult

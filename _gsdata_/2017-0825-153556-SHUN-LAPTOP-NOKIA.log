@@ -1,0 +1,19 @@
+2017-08-25 15:35:58: -- Analysis Started by User Command
+2017-08-25 15:36:02: 变更：11， 冲突：， 复制时间：， 复制状态：， 错误： , All: 115
+2017-08-25 15:36:02: Left to Right: Copy File: 11 
+2017-08-25 15:36:02: ----- ：分析已结束。 历时 00:00:06， 速度： 18 个文件/秒 -----
+2017-08-25 15:36:02: 
+2017-08-25 15:36:03: == Sync Started by User Command
+2017-08-25 15:36:04: 覆盖复制 'D:/Projects/SymbianPython/python/2.demo.py' -> 'mtp://S60_Handset/Memory card (ESD-ISO)/PYTHON/2.demo.py'
+2017-08-25 15:36:04: 新建复制 'D:/Projects/SymbianPython/python/default.py' -> 'mtp://S60_Handset/Memory card (ESD-ISO)/PYTHON/default.py'
+2017-08-25 15:36:04: 覆盖复制 'D:/Projects/SymbianPython/python/neapi.py' -> 'mtp://S60_Handset/Memory card (ESD-ISO)/PYTHON/neapi.py'
+2017-08-25 15:36:04: 覆盖复制 'D:/Projects/SymbianPython/python/playlist.py' -> 'mtp://S60_Handset/Memory card (ESD-ISO)/PYTHON/playlist.py'
+2017-08-25 15:36:05: 新建复制 'D:/Projects/SymbianPython/python/playlist.pyc' -> 'mtp://S60_Handset/Memory card (ESD-ISO)/PYTHON/playlist.pyc'
+2017-08-25 15:36:05: 覆盖复制 'D:/Projects/SymbianPython/python/symbian_tools.py' -> 'mtp://S60_Handset/Memory card (ESD-ISO)/PYTHON/symbian_tools.py'
+2017-08-25 15:36:05: 新建复制 'D:/Projects/SymbianPython/python/symbian_tools.pyc' -> 'mtp://S60_Handset/Memory card (ESD-ISO)/PYTHON/symbian_tools.pyc'
+2017-08-25 15:36:06: 覆盖复制 'D:/Projects/SymbianPython/python/tools.py' -> 'mtp://S60_Handset/Memory card (ESD-ISO)/PYTHON/tools.py'
+2017-08-25 15:36:06: 覆盖复制 'D:/Projects/SymbianPython/python/tools.pyc' -> 'mtp://S60_Handset/Memory card (ESD-ISO)/PYTHON/tools.pyc'
+2017-08-25 15:36:06: 新建复制 'D:/Projects/SymbianPython/python/util.py' -> 'mtp://S60_Handset/Memory card (ESD-ISO)/PYTHON/util.py'
+2017-08-25 15:36:06: 新建复制 'D:/Projects/SymbianPython/python/work.txt' -> 'mtp://S60_Handset/Memory card (ESD-ISO)/PYTHON/work.txt'
+2017-08-25 15:36:06: ===== ：同步完毕。时间：00:00:03，速度： 57.8 KB/s =====, 项目同步未必： 11，错误： 
+2017-08-25 15:36:06: 

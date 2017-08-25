@@ -1,0 +1,7 @@
+2017-08-25 01:03:20: -- Analysis Started by On File Change Incremental
+2017-08-25 01:03:20: 变更：1， 冲突：， 复制时间：， 复制状态：， 错误： , All: 103
+2017-08-25 01:03:20: Left to Right: Copy File: 1 
+2017-08-25 01:03:20: == Sync Started by On File Change Incremental
+2017-08-25 01:03:21: 覆盖复制 'D:/Projects/SymbianPython/python/LIB/ujson.py' -> 'mtp://S60_Handset/Memory card (ESD-ISO)/PYTHON/LIB/ujson.py'
+2017-08-25 01:03:21: ===== ：同步完毕。时间：00:00:01，速度： 166 字节/s =====, 项目同步未必： 1，错误： 
+2017-08-25 01:03:21: 

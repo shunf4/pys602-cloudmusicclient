@@ -1,0 +1,10 @@
+2017-08-25 00:20:57: -- Analysis Started by User Command
+2017-08-25 00:20:58: 变更：3， 冲突：， 复制时间：， 复制状态：， 错误： , All: 102
+2017-08-25 00:20:58: Left to Right: Delete File: 1 Rename/Move File/Folder: 2 
+2017-08-25 00:20:58: ----- ：分析已结束。 历时 00:00:01， 速度： 101 个文件/秒 -----
+2017-08-25 00:20:58: 
+2017-08-25 00:20:59: == Sync Started by User Command
+2017-08-25 00:21:00: 删除文件 'mtp://S60_Handset/Memory card (ESD-ISO)/PYTHON/.git/FETCH_HEAD'
+2017-08-25 00:21:00: 移动文件 mtp://S60_Handset/Memory card (ESD-ISO)/PYTHON/old/ujson.py -> mtp://S60_Handset/Memory card (ESD-ISO)/PYTHON/LIB/ujson.py
+2017-08-25 00:21:00: ===== ：同步完毕。时间：00:00:01，速度： 1.00 KB/s =====, 项目同步未必： 3，错误： 
+2017-08-25 00:21:00: 

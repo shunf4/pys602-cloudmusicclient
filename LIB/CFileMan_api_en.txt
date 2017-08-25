@@ -1,0 +1,85 @@
+import cfileman
+
+fileman = cfileman.FileMan ()
+create a class object FileMan, then we have the following methods to
+
+fileman.drive_space ()
+returns a dictionary with the name of the disk and its size (free and total) in bytes
+
+fileman.listdir (path [, filteratt, filtersort, typeflag])
+returns a tuple of folders and files selected directory path (the path must end with a double backslash)
+filteratt argument is designed to filter the contents of the directory by file attributes
+The following flags are available for filtering
+EAttMatchMask - show all objects (folders, hidden and system files), installed by default
+EAttNormal - any folder or file without the hidden and system attributes
+EAttReadOnly - read-only
+EAttHidden - hidden
+EAttSystem - system
+EAttDir - directory of free hidden and system attributes
+EAttArchive - Archive
+EAttMatchExclude - excludes all objects under the appropriate attributes, an example EAttMatchExclude | EAttHidden exclude hidden objects
+EAttMatchExclusive - includes all of the objects under the appropriate attributes, an example EAttMatchExclusive | EAttHidden exclude hidden objects
+filtersort argument is to sort the contents of a directory
+The following flags are available for sorting
+ESortNone - do not sort
+ESortByName - named
+ESortByExt - to expand
+ESortBySize - by file size
+ESortByDate - date of last revision
+EAscending - in ascending order by default
+EDescending - descending
+EDirDescending - only folders in descending order
+typeflag argument controls the type of data returned
+The default returns a tuple consisting of a 2-tuple with the names of folders and files contained in the selected directory, if you set typeflag = 0 then the function returns a tuple of 2 listings
+
+fileman.set_att (path, set_att [, clear_att])
+sets the attributes for the object path
+set_att argument is responsible for set attributes
+argument clear_att responsible for the removed attributes
+have the following attribute flags
+EAttReadOnly - read-only
+EAttHidden - hidden
+EAttSystem - system
+EAttArchive - Archive
+
+fileman.get_att (path) # returns the attributes of an object path
+
+fileman.mkdir (path [, revflag])
+creates a folder path
+argument revflag responsible for the creation of recursive folders missing, the default is 0
+
+fileman.rename (pathOld, pathNew)
+rename the object in the pathOld pathNew
+
+filename.file_copy (pathOld, pathNew [, revflag])
+copies a file to a directory pathOld pathNew (the path must end with a double backslash)
+revflag argument can be read
+EOverWrite - overwrite the file if it already exists
+ERecurse - recursive create the missing folders
+perhaps their shared by the operator |
+
+fileman.file_move (pathOld, pathNew [, revflag])
+moves the file to a directory pathOld pathNew (the path must end with a double backslash)
+revflag argument can be read
+EOverWrite - overwrite the file if it already exists
+ERecurse - recursive create the missing folders
+perhaps their shared by the operator |
+
+fileman.delete (path)
+deletes the object path, if the directory can delete all of its investments
+
+fileman.set_callback (funk)
+sets the callback function (always passes one argument of type int) called when deleting, copying and moving objects
+if you delete a file is passed to the function value of 0 starts when deleting a file and when the removal is complete
+in the case of copy / move a large file into a function is passed the size skopirovavschihsya data (useful for organizing the progress bar)
+
+fileman.compare(path)
+?
+
+fileman.is_fileopen(file)
+returns 1 if file is opened
+        0 if file is not opened
+
+fileman.is_folder(file)
+returns 1 if folder
+        0 otherwise

@@ -1,0 +1,16 @@
+2017-08-25 00:19:35: -- Analysis Started by On File Change Incremental
+2017-08-25 00:19:35: 变更：2， 冲突：， 复制时间：， 复制状态：， 错误： , All: 101
+2017-08-25 00:19:35: Left to Right: Rename/Move File/Folder: 2 
+2017-08-25 00:19:35: == Sync Started by On File Change Incremental
+2017-08-25 00:19:36: 移动文件 mtp://S60_Handset/Memory card (ESD-ISO)/PYTHON/ujson.py -> mtp://S60_Handset/Memory card (ESD-ISO)/PYTHON/old/ujson.py
+2017-08-25 00:20:47: File Monitoring was asked to stop on: L: On Stop
+2017-08-25 00:20:47: File Monitoring was asked to stop on: R: On Stop
+2017-08-25 00:20:47: Stop requested by Stop By User: #1
+2017-08-25 00:20:47: File Monitoring stopped on: Z:/Epoc32/winscw/E/python: Was asked to stop by m_bStopFileMonitoring
+2017-08-25 00:20:47: File Monitoring on: Z:/Epoc32/winscw/E/python: Was asked to stop by m_bStopFileMonitoring
+2017-08-25 00:20:47: File Monitoring stopped on: mtp://S60_Handset/Memory card (ESD-ISO)/PYTHON: Was asked to stop by m_bStopFileMonitoring
+2017-08-25 00:20:47: File Monitoring on: mtp://S60_Handset/Memory card (ESD-ISO)/PYTHON: Was asked to stop by m_bStopFileMonitoring
+2017-08-25 00:20:47: File Monitoring has stopped: Was asked to stop by m_bStopFileMonitoring
+2017-08-25 00:20:48: File Monitoring has stopped: Was asked to stop by m_bStopFileMonitoring
+2017-08-25 00:20:54: stopped by Stop By User
+2017-08-25 00:20:54: 

@@ -1,11 +1,24 @@
-import neapi
-import urllib
+import logging
+import sys
+class Stderr:
+    def __init__(self, originalStderr, logger):
+        self.originalStderr = originalStderr
+        self.logger = logger
+        
+    def bind(self):
+        sys.stderr = self
 
-file0 = open(".\\tmp.txt","w")
-x = {"csrf_token":"","id":"93878593","limit":"20","n":"1000","offset":"0","total":"false"}
-enc = neapi.NEEncrypt()
-enc.loadParams(x)
-result = urllib.urlencode(enc.getEncryptedData())
-file0.write(result)
-print result
-file0.close()
+    def release(self):
+        sys.stderr = self.originalStderr
+
+    def write(self, sth):
+        self.logger.error(sth.replace("\n",""))
+        self.originalStderr.write(sth)
+
+
+
+import sys
+print sys.path
+import appuifw2
+appuifw2.app.body = appuifw2.Text_display(text=u"Wow",skinned=True)
+appuifw2.note(u"")

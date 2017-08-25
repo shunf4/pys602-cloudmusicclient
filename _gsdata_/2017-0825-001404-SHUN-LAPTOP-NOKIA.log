@@ -1,0 +1,122 @@
+2017-08-25 00:14:05: -- Analysis Started by User Command
+2017-08-25 00:14:05: 左侧: State file does not exist: Z:/Epoc32/winscw/E/python/_gsdata_/_file_state_v4._gs
+2017-08-25 00:14:05: 右侧: State file does not exist in mirror: C:/Users/shunf/AppData/Roaming/GoodSync/_mirrors_/mtp-S60_Handset-Memory card (ESD-ISO)-PYTHON/_file_state_v4._gs
+2017-08-25 00:14:05: 变更：96， 冲突：， 复制时间：， 复制状态：， 错误： , All: 99
+2017-08-25 00:14:05: Left to Right: Copy File: 78 Delete File: 10 Rename/Move File/Folder: 8 
+2017-08-25 00:14:05: ----- ：分析已结束。 历时 00:00:01， 速度： 99 个文件/秒 -----
+2017-08-25 00:14:05: 
+2017-08-25 00:14:09: === User Changed Action from 'COPY_FILE_LTOR' to 'COPY_FILE_RTOL' on item /LIB
+2017-08-25 00:14:09: === User Changed Action from 'COPY_FILE_LTOR' to 'COPY_FILE_RTOL' on item /LIB/_appuifw2.pyd
+2017-08-25 00:14:09: === User Changed Action from 'COPY_FILE_LTOR' to 'COPY_FILE_RTOL' on item /LIB/AES.PY
+2017-08-25 00:14:09: === User Changed Action from 'COPY_FILE_LTOR' to 'COPY_FILE_RTOL' on item /LIB/APPUIFW2.PY
+2017-08-25 00:14:09: === User Changed Action from 'COPY_FILE_LTOR' to 'COPY_FILE_RTOL' on item /LIB/ARMAES.PYD
+2017-08-25 00:14:09: === User Changed Action from 'COPY_FILE_LTOR' to 'COPY_FILE_RTOL' on item /LIB/FNMATCH.PY
+2017-08-25 00:14:09: === User Changed Action from 'COPY_FILE_LTOR' to 'COPY_FILE_RTOL' on item /LIB/GCCAES.PYD
+2017-08-25 00:14:09: === User Changed Action from 'COPY_FILE_LTOR' to 'COPY_FILE_RTOL' on item /LIB/GLOB.PY
+2017-08-25 00:14:09: === User Changed Action from 'COPY_FILE_LTOR' to 'COPY_FILE_RTOL' on item /LIB/kf__AES.PYD
+2017-08-25 00:14:09: === User Changed Action from 'COPY_FILE_LTOR' to 'COPY_FILE_RTOL' on item /LIB/kf_UJSON.PYD
+2017-08-25 00:14:09: === User Changed Action from 'COPY_FILE_LTOR' to 'COPY_FILE_RTOL' on item /LIB/PHCOMM.PY
+2017-08-25 00:14:09: === User Changed Action from 'COPY_FILE_LTOR' to 'COPY_FILE_RTOL' on item /LIB/PHCOMM.PYC
+2017-08-25 00:14:09: === User Changed Action from 'COPY_FILE_LTOR' to 'COPY_FILE_RTOL' on item /LIB/PUSHLIB.PY
+2017-08-25 00:14:09: Done.
+2017-08-25 00:14:13: === User Changed Action from 'COPY_FILE_LTOR' to 'COPY_FILE_RTOL' on item /PHPUSH.PY
+2017-08-25 00:14:13: Done.
+2017-08-25 00:14:16: == Sync Started by User Command
+2017-08-25 00:14:16: 创建文件夹 'Z:/Epoc32/winscw/E/python/LIB' (User Action)
+2017-08-25 00:14:17: 创建文件夹 'mtp://S60_Handset/Memory card (ESD-ISO)/PYTHON/old'
+2017-08-25 00:14:17: 创建文件夹 'mtp://S60_Handset/Memory card (ESD-ISO)/PYTHON/old/pic'
+2017-08-25 00:14:17: 创建文件夹 'mtp://S60_Handset/Memory card (ESD-ISO)/PYTHON/old/simplejson'
+2017-08-25 00:14:17: 创建文件夹 'mtp://S60_Handset/Memory card (ESD-ISO)/PYTHON/old/simplejson/tests'
+2017-08-25 00:14:17: 覆盖复制 'Z:/Epoc32/winscw/E/python/2.demo.py' -> 'mtp://S60_Handset/Memory card (ESD-ISO)/PYTHON/2.demo.py'
+2017-08-25 00:14:18: 新建复制 'Z:/Epoc32/winscw/E/python/captcha.png' -> 'mtp://S60_Handset/Memory card (ESD-ISO)/PYTHON/captcha.png'
+2017-08-25 00:14:18: 新建复制 'Z:/Epoc32/winscw/E/python/config.txt' -> 'mtp://S60_Handset/Memory card (ESD-ISO)/PYTHON/config.txt'
+2017-08-25 00:14:18: 新建复制 'Z:/Epoc32/winscw/E/python/demo.py' -> 'mtp://S60_Handset/Memory card (ESD-ISO)/PYTHON/demo.py'
+2017-08-25 00:14:18: 新建复制 'Z:/Epoc32/winscw/E/python/http.txt' -> 'mtp://S60_Handset/Memory card (ESD-ISO)/PYTHON/http.txt'
+2017-08-25 00:14:19: 新建复制 'mtp://S60_Handset/Memory card (ESD-ISO)/PYTHON/LIB/_appuifw2.pyd' -> 'Z:/Epoc32/winscw/E/python/LIB/_appuifw2.pyd' (User Action)
+2017-08-25 00:14:19: 新建复制 'mtp://S60_Handset/Memory card (ESD-ISO)/PYTHON/LIB/AES.PY' -> 'Z:/Epoc32/winscw/E/python/LIB/AES.PY' (User Action)
+2017-08-25 00:14:19: 新建复制 'mtp://S60_Handset/Memory card (ESD-ISO)/PYTHON/LIB/APPUIFW2.PY' -> 'Z:/Epoc32/winscw/E/python/LIB/APPUIFW2.PY' (User Action)
+2017-08-25 00:14:19: 新建复制 'mtp://S60_Handset/Memory card (ESD-ISO)/PYTHON/LIB/ARMAES.PYD' -> 'Z:/Epoc32/winscw/E/python/LIB/ARMAES.PYD' (User Action)
+2017-08-25 00:14:19: 新建复制 'mtp://S60_Handset/Memory card (ESD-ISO)/PYTHON/LIB/FNMATCH.PY' -> 'Z:/Epoc32/winscw/E/python/LIB/FNMATCH.PY' (User Action)
+2017-08-25 00:14:19: 新建复制 'mtp://S60_Handset/Memory card (ESD-ISO)/PYTHON/LIB/GCCAES.PYD' -> 'Z:/Epoc32/winscw/E/python/LIB/GCCAES.PYD' (User Action)
+2017-08-25 00:14:20: 新建复制 'mtp://S60_Handset/Memory card (ESD-ISO)/PYTHON/LIB/GLOB.PY' -> 'Z:/Epoc32/winscw/E/python/LIB/GLOB.PY' (User Action)
+2017-08-25 00:14:20: 新建复制 'mtp://S60_Handset/Memory card (ESD-ISO)/PYTHON/LIB/kf__AES.PYD' -> 'Z:/Epoc32/winscw/E/python/LIB/kf__AES.PYD' (User Action)
+2017-08-25 00:14:20: 新建复制 'mtp://S60_Handset/Memory card (ESD-ISO)/PYTHON/LIB/kf_UJSON.PYD' -> 'Z:/Epoc32/winscw/E/python/LIB/kf_UJSON.PYD' (User Action)
+2017-08-25 00:14:20: 新建复制 'mtp://S60_Handset/Memory card (ESD-ISO)/PYTHON/LIB/PHCOMM.PY' -> 'Z:/Epoc32/winscw/E/python/LIB/PHCOMM.PY' (User Action)
+2017-08-25 00:14:20: 新建复制 'mtp://S60_Handset/Memory card (ESD-ISO)/PYTHON/LIB/PHCOMM.PYC' -> 'Z:/Epoc32/winscw/E/python/LIB/PHCOMM.PYC' (User Action)
+2017-08-25 00:14:20: 新建复制 'mtp://S60_Handset/Memory card (ESD-ISO)/PYTHON/LIB/PUSHLIB.PY' -> 'Z:/Epoc32/winscw/E/python/LIB/PUSHLIB.PY' (User Action)
+2017-08-25 00:14:21: 新建复制 'Z:/Epoc32/winscw/E/python/localdata.txt' -> 'mtp://S60_Handset/Memory card (ESD-ISO)/PYTHON/localdata.txt'
+2017-08-25 00:14:21: 新建复制 'Z:/Epoc32/winscw/E/python/log.txt' -> 'mtp://S60_Handset/Memory card (ESD-ISO)/PYTHON/log.txt'
+2017-08-25 00:14:21: 新建复制 'Z:/Epoc32/winscw/E/python/neapi.py' -> 'mtp://S60_Handset/Memory card (ESD-ISO)/PYTHON/neapi.py'
+2017-08-25 00:14:21: 新建复制 'Z:/Epoc32/winscw/E/python/neapi.pyc' -> 'mtp://S60_Handset/Memory card (ESD-ISO)/PYTHON/neapi.pyc'
+2017-08-25 00:14:21: 新建复制 'Z:/Epoc32/winscw/E/python/nelog.pyc' -> 'mtp://S60_Handset/Memory card (ESD-ISO)/PYTHON/nelog.pyc'
+2017-08-25 00:14:22: 新建复制 'Z:/Epoc32/winscw/E/python/old/api.py' -> 'mtp://S60_Handset/Memory card (ESD-ISO)/PYTHON/old/api.py'
+2017-08-25 00:14:22: 新建复制 'Z:/Epoc32/winscw/E/python/old/api.pyc' -> 'mtp://S60_Handset/Memory card (ESD-ISO)/PYTHON/old/api.pyc'
+2017-08-25 00:14:22: 新建复制 'Z:/Epoc32/winscw/E/python/old/appuifwtest.py' -> 'mtp://S60_Handset/Memory card (ESD-ISO)/PYTHON/old/appuifwtest.py'
+2017-08-25 00:14:22: 新建复制 'Z:/Epoc32/winscw/E/python/old/default.py' -> 'mtp://S60_Handset/Memory card (ESD-ISO)/PYTHON/old/default.py'
+2017-08-25 00:14:23: 新建复制 'Z:/Epoc32/winscw/E/python/old/filebrowser.py' -> 'mtp://S60_Handset/Memory card (ESD-ISO)/PYTHON/old/filebrowser.py'
+2017-08-25 00:14:23: 新建复制 'Z:/Epoc32/winscw/E/python/old/fnmatch.py' -> 'mtp://S60_Handset/Memory card (ESD-ISO)/PYTHON/old/fnmatch.py'
+2017-08-25 00:14:23: 新建复制 'Z:/Epoc32/winscw/E/python/old/glob.py' -> 'mtp://S60_Handset/Memory card (ESD-ISO)/PYTHON/old/glob.py'
+2017-08-25 00:14:23: 新建复制 'Z:/Epoc32/winscw/E/python/old/neapi.py' -> 'mtp://S60_Handset/Memory card (ESD-ISO)/PYTHON/old/neapi.py'
+2017-08-25 00:14:24: 新建复制 'Z:/Epoc32/winscw/E/python/old/phcomm.py' -> 'mtp://S60_Handset/Memory card (ESD-ISO)/PYTHON/old/phcomm.py'
+2017-08-25 00:14:24: 新建复制 'Z:/Epoc32/winscw/E/python/old/phpush.py' -> 'mtp://S60_Handset/Memory card (ESD-ISO)/PYTHON/old/phpush.py'
+2017-08-25 00:14:24: 新建复制 'Z:/Epoc32/winscw/E/python/old/pic/actionbar_discover_normal.png' -> 'mtp://S60_Handset/Memory card (ESD-ISO)/PYTHON/old/pic/actionbar_discover_normal.png'
+2017-08-25 00:14:24: 新建复制 'Z:/Epoc32/winscw/E/python/old/pic/fm_default_cover_largeex.scale-100.png' -> 'mtp://S60_Handset/Memory card (ESD-ISO)/PYTHON/old/pic/fm_default_cover_largeex.scale-100.png'
+2017-08-25 00:14:25: 新建复制 'Z:/Epoc32/winscw/E/python/old/pic/list_detail_icn_fav.bmp' -> 'mtp://S60_Handset/Memory card (ESD-ISO)/PYTHON/old/pic/list_detail_icn_fav.bmp'
+2017-08-25 00:14:25: 新建复制 'Z:/Epoc32/winscw/E/python/old/pic/list_detail_icn_fav.png' -> 'mtp://S60_Handset/Memory card (ESD-ISO)/PYTHON/old/pic/list_detail_icn_fav.png'
+2017-08-25 00:14:25: 新建复制 'Z:/Epoc32/winscw/E/python/old/pic/list_detail_icn_fav_.bmp' -> 'mtp://S60_Handset/Memory card (ESD-ISO)/PYTHON/old/pic/list_detail_icn_fav_.bmp'
+2017-08-25 00:14:25: 新建复制 'Z:/Epoc32/winscw/E/python/old/pic/list_detail_icn_faved.bmp' -> 'mtp://S60_Handset/Memory card (ESD-ISO)/PYTHON/old/pic/list_detail_icn_faved.bmp'
+2017-08-25 00:14:26: 新建复制 'Z:/Epoc32/winscw/E/python/old/pic/list_detail_icn_faved.png' -> 'mtp://S60_Handset/Memory card (ESD-ISO)/PYTHON/old/pic/list_detail_icn_faved.png'
+2017-08-25 00:14:26: 新建复制 'Z:/Epoc32/winscw/E/python/old/pic/list_detail_icn_faved_.bmp' -> 'mtp://S60_Handset/Memory card (ESD-ISO)/PYTHON/old/pic/list_detail_icn_faved_.bmp'
+2017-08-25 00:14:26: 新建复制 'Z:/Epoc32/winscw/E/python/old/pic/pic.bmp' -> 'mtp://S60_Handset/Memory card (ESD-ISO)/PYTHON/old/pic/pic.bmp'
+2017-08-25 00:14:26: 新建复制 'Z:/Epoc32/winscw/E/python/old/pic/pic.png' -> 'mtp://S60_Handset/Memory card (ESD-ISO)/PYTHON/old/pic/pic.png'
+2017-08-25 00:14:27: 新建复制 'Z:/Epoc32/winscw/E/python/old/pic/play_disc.png' -> 'mtp://S60_Handset/Memory card (ESD-ISO)/PYTHON/old/pic/play_disc.png'
+2017-08-25 00:14:27: 新建复制 'Z:/Epoc32/winscw/E/python/old/pic/play_fm_btn_love_prs.png' -> 'mtp://S60_Handset/Memory card (ESD-ISO)/PYTHON/old/pic/play_fm_btn_love_prs.png'
+2017-08-25 00:14:28: 新建复制 'Z:/Epoc32/winscw/E/python/old/pic/play_fm_btn_loved.png' -> 'mtp://S60_Handset/Memory card (ESD-ISO)/PYTHON/old/pic/play_fm_btn_loved.png'
+2017-08-25 00:14:29: 新建复制 'Z:/Epoc32/winscw/E/python/old/pic/play_fm_btn_loved_.bmp' -> 'mtp://S60_Handset/Memory card (ESD-ISO)/PYTHON/old/pic/play_fm_btn_loved_.bmp'
+2017-08-25 00:14:30: 新建复制 'Z:/Epoc32/winscw/E/python/old/pic/play_icn_cmt.bmp' -> 'mtp://S60_Handset/Memory card (ESD-ISO)/PYTHON/old/pic/play_icn_cmt.bmp'
+2017-08-25 00:14:30: 新建复制 'Z:/Epoc32/winscw/E/python/old/pic/play_icn_cmt.png' -> 'mtp://S60_Handset/Memory card (ESD-ISO)/PYTHON/old/pic/play_icn_cmt.png'
+2017-08-25 00:14:31: 新建复制 'Z:/Epoc32/winscw/E/python/old/pic/play_icn_cmt_.bmp' -> 'mtp://S60_Handset/Memory card (ESD-ISO)/PYTHON/old/pic/play_icn_cmt_.bmp'
+2017-08-25 00:14:31: 新建复制 'Z:/Epoc32/winscw/E/python/old/pic/play_icn_loop.bmp' -> 'mtp://S60_Handset/Memory card (ESD-ISO)/PYTHON/old/pic/play_icn_loop.bmp'
+2017-08-25 00:14:32: 新建复制 'Z:/Epoc32/winscw/E/python/old/pic/play_icn_loop.png' -> 'mtp://S60_Handset/Memory card (ESD-ISO)/PYTHON/old/pic/play_icn_loop.png'
+2017-08-25 00:14:32: 新建复制 'Z:/Epoc32/winscw/E/python/old/pic/play_icn_loop_.bmp' -> 'mtp://S60_Handset/Memory card (ESD-ISO)/PYTHON/old/pic/play_icn_loop_.bmp'
+2017-08-25 00:14:33: 新建复制 'Z:/Epoc32/winscw/E/python/old/pic/play_icn_love.bmp' -> 'mtp://S60_Handset/Memory card (ESD-ISO)/PYTHON/old/pic/play_icn_love.bmp'
+2017-08-25 00:14:33: 新建复制 'Z:/Epoc32/winscw/E/python/old/pic/play_icn_love.png' -> 'mtp://S60_Handset/Memory card (ESD-ISO)/PYTHON/old/pic/play_icn_love.png'
+2017-08-25 00:14:33: 新建复制 'Z:/Epoc32/winscw/E/python/old/pic/play_icn_love_.bmp' -> 'mtp://S60_Handset/Memory card (ESD-ISO)/PYTHON/old/pic/play_icn_love_.bmp'
+2017-08-25 00:14:34: 新建复制 'Z:/Epoc32/winscw/E/python/old/pic/play_icn_loved.bmp' -> 'mtp://S60_Handset/Memory card (ESD-ISO)/PYTHON/old/pic/play_icn_loved.bmp'
+2017-08-25 00:14:35: 新建复制 'Z:/Epoc32/winscw/E/python/old/pic/play_icn_loved.png' -> 'mtp://S60_Handset/Memory card (ESD-ISO)/PYTHON/old/pic/play_icn_loved.png'
+2017-08-25 00:14:35: 新建复制 'Z:/Epoc32/winscw/E/python/old/pic/play_icn_loved_.bmp' -> 'mtp://S60_Handset/Memory card (ESD-ISO)/PYTHON/old/pic/play_icn_loved_.bmp'
+2017-08-25 00:14:35: 新建复制 'Z:/Epoc32/winscw/E/python/old/pic/play_icn_one.bmp' -> 'mtp://S60_Handset/Memory card (ESD-ISO)/PYTHON/old/pic/play_icn_one.bmp'
+2017-08-25 00:14:36: 新建复制 'Z:/Epoc32/winscw/E/python/old/pic/play_icn_one.png' -> 'mtp://S60_Handset/Memory card (ESD-ISO)/PYTHON/old/pic/play_icn_one.png'
+2017-08-25 00:14:36: 新建复制 'Z:/Epoc32/winscw/E/python/old/pic/play_icn_one_.bmp' -> 'mtp://S60_Handset/Memory card (ESD-ISO)/PYTHON/old/pic/play_icn_one_.bmp'
+2017-08-25 00:14:36: 新建复制 'Z:/Epoc32/winscw/E/python/old/pic/play_icn_shuffle.bmp' -> 'mtp://S60_Handset/Memory card (ESD-ISO)/PYTHON/old/pic/play_icn_shuffle.bmp'
+2017-08-25 00:14:36: 新建复制 'Z:/Epoc32/winscw/E/python/old/pic/play_icn_shuffle.png' -> 'mtp://S60_Handset/Memory card (ESD-ISO)/PYTHON/old/pic/play_icn_shuffle.png'
+2017-08-25 00:14:37: 新建复制 'Z:/Epoc32/winscw/E/python/old/pic/play_icn_shuffle_.bmp' -> 'mtp://S60_Handset/Memory card (ESD-ISO)/PYTHON/old/pic/play_icn_shuffle_.bmp'
+2017-08-25 00:14:37: 新建复制 'Z:/Epoc32/winscw/E/python/old/pic/play_needle.png' -> 'mtp://S60_Handset/Memory card (ESD-ISO)/PYTHON/old/pic/play_needle.png'
+2017-08-25 00:14:37: 新建复制 'Z:/Epoc32/winscw/E/python/old/pic/play_needle_.png' -> 'mtp://S60_Handset/Memory card (ESD-ISO)/PYTHON/old/pic/play_needle_.png'
+2017-08-25 00:14:38: 新建复制 'Z:/Epoc32/winscw/E/python/old/pic/SplashScreen.scale-100.bmp' -> 'mtp://S60_Handset/Memory card (ESD-ISO)/PYTHON/old/pic/SplashScreen.scale-100.bmp'
+2017-08-25 00:14:38: 新建复制 'Z:/Epoc32/winscw/E/python/old/pic/SplashScreen.scale-100.png' -> 'mtp://S60_Handset/Memory card (ESD-ISO)/PYTHON/old/pic/SplashScreen.scale-100.png'
+2017-08-25 00:14:38: 新建复制 'Z:/Epoc32/winscw/E/python/old/pic.bmp' -> 'mtp://S60_Handset/Memory card (ESD-ISO)/PYTHON/old/pic.bmp'
+2017-08-25 00:14:39: 新建复制 'Z:/Epoc32/winscw/E/python/old/playlist.py' -> 'mtp://S60_Handset/Memory card (ESD-ISO)/PYTHON/old/playlist.py'
+2017-08-25 00:14:39: 新建复制 'Z:/Epoc32/winscw/E/python/old/pushlib.py' -> 'mtp://S60_Handset/Memory card (ESD-ISO)/PYTHON/old/pushlib.py'
+2017-08-25 00:14:39: 新建复制 'Z:/Epoc32/winscw/E/python/old/simplejson/__init__.py' -> 'mtp://S60_Handset/Memory card (ESD-ISO)/PYTHON/old/simplejson/__init__.py'
+2017-08-25 00:14:39: 新建复制 'Z:/Epoc32/winscw/E/python/old/simplejson/__init__.pyc' -> 'mtp://S60_Handset/Memory card (ESD-ISO)/PYTHON/old/simplejson/__init__.pyc'
+2017-08-25 00:14:39: 新建复制 'Z:/Epoc32/winscw/E/python/old/simplejson/decoder.py' -> 'mtp://S60_Handset/Memory card (ESD-ISO)/PYTHON/old/simplejson/decoder.py'
+2017-08-25 00:14:40: 新建复制 'Z:/Epoc32/winscw/E/python/old/simplejson/decoder.pyc' -> 'mtp://S60_Handset/Memory card (ESD-ISO)/PYTHON/old/simplejson/decoder.pyc'
+2017-08-25 00:14:40: 新建复制 'Z:/Epoc32/winscw/E/python/old/simplejson/encoder.py' -> 'mtp://S60_Handset/Memory card (ESD-ISO)/PYTHON/old/simplejson/encoder.py'
+2017-08-25 00:14:40: 新建复制 'Z:/Epoc32/winscw/E/python/old/simplejson/encoder.pyc' -> 'mtp://S60_Handset/Memory card (ESD-ISO)/PYTHON/old/simplejson/encoder.pyc'
+2017-08-25 00:14:41: 新建复制 'Z:/Epoc32/winscw/E/python/old/simplejson/scanner.py' -> 'mtp://S60_Handset/Memory card (ESD-ISO)/PYTHON/old/simplejson/scanner.py'
+2017-08-25 00:14:41: 新建复制 'Z:/Epoc32/winscw/E/python/old/simplejson/scanner.pyc' -> 'mtp://S60_Handset/Memory card (ESD-ISO)/PYTHON/old/simplejson/scanner.pyc'
+2017-08-25 00:14:41: 新建复制 'Z:/Epoc32/winscw/E/python/old/simplejson/tests/__init__.py' -> 'mtp://S60_Handset/Memory card (ESD-ISO)/PYTHON/old/simplejson/tests/__init__.py'
+2017-08-25 00:14:42: 新建复制 'Z:/Epoc32/winscw/E/python/old/simplejson/tests/test_fail.py' -> 'mtp://S60_Handset/Memory card (ESD-ISO)/PYTHON/old/simplejson/tests/test_fail.py'
+2017-08-25 00:14:42: 新建复制 'Z:/Epoc32/winscw/E/python/old/simplejson/tests/test_pass1.py' -> 'mtp://S60_Handset/Memory card (ESD-ISO)/PYTHON/old/simplejson/tests/test_pass1.py'
+2017-08-25 00:14:42: 新建复制 'Z:/Epoc32/winscw/E/python/old/simplejson/tests/test_pass2.py' -> 'mtp://S60_Handset/Memory card (ESD-ISO)/PYTHON/old/simplejson/tests/test_pass2.py'
+2017-08-25 00:14:43: 新建复制 'Z:/Epoc32/winscw/E/python/old/simplejson/tests/test_pass3.py' -> 'mtp://S60_Handset/Memory card (ESD-ISO)/PYTHON/old/simplejson/tests/test_pass3.py'
+2017-08-25 00:14:43: 新建复制 'Z:/Epoc32/winscw/E/python/old/simplejson/tests/test_recursion.py' -> 'mtp://S60_Handset/Memory card (ESD-ISO)/PYTHON/old/simplejson/tests/test_recursion.py'
+2017-08-25 00:14:44: 新建复制 'Z:/Epoc32/winscw/E/python/old/util.py' -> 'mtp://S60_Handset/Memory card (ESD-ISO)/PYTHON/old/util.py'
+2017-08-25 00:14:44: 新建复制 'mtp://S60_Handset/Memory card (ESD-ISO)/PYTHON/PHPUSH.PY' -> 'Z:/Epoc32/winscw/E/python/PHPUSH.PY' (User Action)
+2017-08-25 00:14:44: 新建复制 'Z:/Epoc32/winscw/E/python/tmp.txt' -> 'mtp://S60_Handset/Memory card (ESD-ISO)/PYTHON/tmp.txt'
+2017-08-25 00:14:45: 新建复制 'Z:/Epoc32/winscw/E/python/tools.py' -> 'mtp://S60_Handset/Memory card (ESD-ISO)/PYTHON/tools.py'
+2017-08-25 00:14:46: 新建复制 'Z:/Epoc32/winscw/E/python/tools.pyc' -> 'mtp://S60_Handset/Memory card (ESD-ISO)/PYTHON/tools.pyc'
+2017-08-25 00:14:46: 新建复制 'Z:/Epoc32/winscw/E/python/ujson.py' -> 'mtp://S60_Handset/Memory card (ESD-ISO)/PYTHON/ujson.py'
+2017-08-25 00:14:46: ===== ：同步完毕。时间：00:00:30，速度： 42.5 KB/s =====, 项目同步未必： 96，错误： 
+2017-08-25 00:14:46: 

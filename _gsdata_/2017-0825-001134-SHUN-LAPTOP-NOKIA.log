@@ -1,0 +1,51 @@
+2017-08-25 00:11:34: -- Analysis Started by User Command
+2017-08-25 00:11:34: 左侧: State file does not exist: Z:/Epoc32/winscw/E/python/_gsdata_/_file_state_v4._gs
+2017-08-25 00:11:34: 右侧: State file does not exist: mtp://S60_Handset/Memory card (ESD-ISO)/PYTHON/_gsdata_/_file_state_v4._gs
+2017-08-25 00:11:34: 变更：103， 冲突：， 复制时间：， 复制状态：， 错误： , All: 105
+2017-08-25 00:11:34: Left to Right: Copy File: 85 Delete File: 10 Rename/Move File/Folder: 8 
+2017-08-25 00:11:34: ----- ：分析已结束。 历时 00:00:00， 速度： Many 个文件/秒 -----
+2017-08-25 00:11:34: 
+2017-08-25 00:11:39: === User Changed Action from 'COPY_FILE_LTOR' to 'COPY_FILE_RTOL' on item /LIB
+2017-08-25 00:11:39: === User Changed Action from 'COPY_FILE_LTOR' to 'COPY_FILE_RTOL' on item /LIB/_appuifw2.pyd
+2017-08-25 00:11:39: === User Changed Action from 'COPY_FILE_LTOR' to 'COPY_FILE_RTOL' on item /LIB/AES.PY
+2017-08-25 00:11:39: === User Changed Action from 'COPY_FILE_LTOR' to 'COPY_FILE_RTOL' on item /LIB/APPUIFW2.PY
+2017-08-25 00:11:39: === User Changed Action from 'COPY_FILE_LTOR' to 'COPY_FILE_RTOL' on item /LIB/ARMAES.PYD
+2017-08-25 00:11:39: === User Changed Action from 'COPY_FILE_LTOR' to 'COPY_FILE_RTOL' on item /LIB/FNMATCH.PY
+2017-08-25 00:11:39: === User Changed Action from 'COPY_FILE_LTOR' to 'COPY_FILE_RTOL' on item /LIB/GCCAES.PYD
+2017-08-25 00:11:39: === User Changed Action from 'COPY_FILE_LTOR' to 'COPY_FILE_RTOL' on item /LIB/GLOB.PY
+2017-08-25 00:11:39: === User Changed Action from 'COPY_FILE_LTOR' to 'COPY_FILE_RTOL' on item /LIB/kf__AES.PYD
+2017-08-25 00:11:39: === User Changed Action from 'COPY_FILE_LTOR' to 'COPY_FILE_RTOL' on item /LIB/kf_UJSON.PYD
+2017-08-25 00:11:39: === User Changed Action from 'COPY_FILE_LTOR' to 'COPY_FILE_RTOL' on item /LIB/PHCOMM.PY
+2017-08-25 00:11:39: === User Changed Action from 'COPY_FILE_LTOR' to 'COPY_FILE_RTOL' on item /LIB/PHCOMM.PYC
+2017-08-25 00:11:39: === User Changed Action from 'COPY_FILE_LTOR' to 'COPY_FILE_RTOL' on item /LIB/PUSHLIB.PY
+2017-08-25 00:11:39: Done.
+2017-08-25 00:12:04: === User Changed Action from 'COPY_FILE_LTOR' to 'COPY_FILE_RTOL' on item /PHPUSH.PY
+2017-08-25 00:12:04: Done.
+2017-08-25 00:12:23: == Sync Started by User Command
+2017-08-25 00:12:23: Please click Analyze again because another job has Synced and it invalidated analysis results of this job.
+State file: mtp://S60_Handset/Memory card (ESD-ISO)/PYTHON/_gsdata_/_file_state_v4._gs
+new: [size=-1 time=(null-time)] != 
+old: [size=2,617 time=2017-08-24 16:11:00]
+
+2017-08-25 00:12:23: 
+2017-08-25 00:13:07: == Sync Started by User Command
+2017-08-25 00:13:07: Please click Analyze again because another job has Synced and it invalidated analysis results of this job.
+State file: mtp://S60_Handset/Memory card (ESD-ISO)/PYTHON/_gsdata_/_file_state_v4._gs
+new: [size=-1 time=(null-time)] != 
+old: [size=2,617 time=2017-08-24 16:11:00]
+
+2017-08-25 00:13:07: 
+2017-08-25 00:13:09: == Sync Started by User Command
+2017-08-25 00:13:09: Please click Analyze again because another job has Synced and it invalidated analysis results of this job.
+State file: mtp://S60_Handset/Memory card (ESD-ISO)/PYTHON/_gsdata_/_file_state_v4._gs
+new: [size=-1 time=(null-time)] != 
+old: [size=2,617 time=2017-08-24 16:11:00]
+
+2017-08-25 00:13:09: 
+2017-08-25 00:13:28: == Sync Started by User Command
+2017-08-25 00:13:28: Please click Analyze again because another job has Synced and it invalidated analysis results of this job.
+State file: mtp://S60_Handset/Memory card (ESD-ISO)/PYTHON/_gsdata_/_file_state_v4._gs
+new: [size=-1 time=(null-time)] != 
+old: [size=2,617 time=2017-08-24 16:11:00]
+
+2017-08-25 00:13:28: 

@@ -1,0 +1,8 @@
+2017-08-25 15:47:18: -- Analysis Started by On File Change Incremental
+2017-08-25 15:47:18: 变更：2， 冲突：， 复制时间：， 复制状态：， 错误： , All: 116
+2017-08-25 15:47:18: Left to Right: Copy File: 1 Delete File: 1 
+2017-08-25 15:47:18: == Sync Started by On File Change Incremental
+2017-08-25 15:47:19: 删除文件 'mtp://S60_Handset/Memory card (ESD-ISO)/PYTHON/LIB/appuifw2.py'
+2017-08-25 15:47:19: 新建复制 'D:/Projects/SymbianPython/python/LIB/appuifw2.pyw' -> 'mtp://S60_Handset/Memory card (ESD-ISO)/PYTHON/LIB/appuifw2.pyw'
+2017-08-25 15:47:19: ===== ：同步完毕。时间：00:00:01，速度： 41.8 KB/s =====, 项目同步未必： 2，错误： 
+2017-08-25 15:47:19: 
