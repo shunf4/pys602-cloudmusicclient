@@ -1,0 +1,18 @@
+2017-08-26 17:54:25: -- Analysis Started by On File Change Incremental
+2017-08-26 17:54:25: 变更：12， 冲突：， 复制时间：， 复制状态：， 错误： , All: 204
+2017-08-26 17:54:25: Left to Right: Delete File: 12 
+2017-08-26 17:54:25: == Sync Started by On File Change Incremental
+2017-08-26 17:54:25: 删除文件 'mtp://S60_Handset/Memory card (ESD-ISO)/Private/fd8f9a7e/LIB/_appuifw2.pyd'
+2017-08-26 17:54:25: 删除文件 'mtp://S60_Handset/Memory card (ESD-ISO)/Private/fd8f9a7e/LIB/appuifw2.pyw'
+2017-08-26 17:54:26: 删除文件 'mtp://S60_Handset/Memory card (ESD-ISO)/Private/fd8f9a7e/LIB/ARMAES.PYD'
+2017-08-26 17:54:26: 删除文件 'mtp://S60_Handset/Memory card (ESD-ISO)/Private/fd8f9a7e/LIB/FNMATCH.PY'
+2017-08-26 17:54:26: 删除文件 'mtp://S60_Handset/Memory card (ESD-ISO)/Private/fd8f9a7e/LIB/GCCAES.PYD'
+2017-08-26 17:54:26: 删除文件 'mtp://S60_Handset/Memory card (ESD-ISO)/Private/fd8f9a7e/LIB/GLOB.PY'
+2017-08-26 17:54:26: 删除文件 'mtp://S60_Handset/Memory card (ESD-ISO)/Private/fd8f9a7e/LIB/kf__AES.PYD'
+2017-08-26 17:54:26: 删除文件 'mtp://S60_Handset/Memory card (ESD-ISO)/Private/fd8f9a7e/LIB/kf__appuifw2.pyd'
+2017-08-26 17:54:26: 删除文件 'mtp://S60_Handset/Memory card (ESD-ISO)/Private/fd8f9a7e/LIB/kf__ujson.pyd'
+2017-08-26 17:54:26: 删除文件 'mtp://S60_Handset/Memory card (ESD-ISO)/Private/fd8f9a7e/LIB/PHCOMM.PY'
+2017-08-26 17:54:26: 删除文件 'mtp://S60_Handset/Memory card (ESD-ISO)/Private/fd8f9a7e/LIB/PHCOMM.PYC'
+2017-08-26 17:54:27: 删除文件 'mtp://S60_Handset/Memory card (ESD-ISO)/Private/fd8f9a7e/LIB/PUSHLIB.PY'
+2017-08-26 17:54:27: ===== ：同步完毕。时间：00:00:02，速度： 2.75 KB/s =====, 项目同步未必： 12，错误： 
+2017-08-26 17:54:27: 

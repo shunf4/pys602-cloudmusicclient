@@ -1,0 +1,15 @@
+2017-08-25 21:26:20: -- Analysis Started by User Command
+2017-08-25 21:26:25: 变更：3， 冲突：， 复制时间：， 复制状态：， 错误： , All: 183
+2017-08-25 21:26:25: Left to Right: Copy File: 2 Delete File: 1 
+2017-08-25 21:26:25: ----- ：分析已结束。 历时 00:00:09， 速度： 17 个文件/秒 -----
+2017-08-25 21:26:25: 
+2017-08-25 21:26:28: == Sync Started by User Command
+2017-08-25 21:26:28: 删除文件 'mtp://S60_Handset/Memory card (ESD-ISO)/Private/fd8f9a7e/2.demo.py'
+2017-08-25 21:27:25: Stop requested by Stop By User: #1
+2017-08-25 21:27:50: 新建复制 'D:/Projects/SymbianPython/python/default.py' -> 'mtp://S60_Handset/Memory card (ESD-ISO)/Private/fd8f9a7e/default.py'
+2017-08-25 21:27:50: stopped by Stop By User
+2017-08-25 21:27:50: 
+2017-08-25 21:28:58: == Sync Started by User Command
+2017-08-25 21:28:59: 新建复制 'D:/Projects/SymbianPython/python/default.py_' -> 'mtp://S60_Handset/Memory card (ESD-ISO)/Private/fd8f9a7e/default.py_'
+2017-08-25 21:28:59: ===== ：同步完毕。时间：00:00:01，速度： 84.3 KB/s =====, 项目同步未必： 1，错误： 
+2017-08-25 21:28:59: 

@@ -1,0 +1,10 @@
+2017-08-28 15:06:18: -- Analysis Started by User Command
+2017-08-28 15:06:18: 变更：2， 冲突：， 复制时间：， 复制状态：， 错误： , All: 219
+2017-08-28 15:06:18: Left to Right: Copy File: 2 
+2017-08-28 15:06:18: ----- ：分析已结束。 历时 00:00:00， 速度： Many 个文件/秒 -----
+2017-08-28 15:06:18: 
+2017-08-28 15:06:24: == Sync Started by User Command
+2017-08-28 15:06:25: 覆盖复制 'D:/Projects/SymbianPython/python_working/default.py' -> 'mtp://S60_Handset/Memory card (ESD-ISO)/Python/default.py'
+2017-08-28 15:06:25: 覆盖复制 'D:/Projects/SymbianPython/python_working/launcher.py' -> 'mtp://S60_Handset/Memory card (ESD-ISO)/Python/launcher.py'
+2017-08-28 15:06:25: ===== ：同步完毕。时间：00:00:01，速度： 88.3 KB/s =====, 项目同步未必： 2，错误： 
+2017-08-28 15:06:25: 

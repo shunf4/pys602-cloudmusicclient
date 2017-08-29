@@ -1,0 +1,10 @@
+2017-08-29 16:44:31: -- Analysis Started by On File Change Incremental
+2017-08-29 16:44:31: 变更：2， 冲突：， 复制时间：， 复制状态：， 错误： , All: 223
+2017-08-29 16:44:31: Left to Right: Copy File: 2 
+2017-08-29 16:44:31: == Sync Started by On File Change Incremental
+2017-08-29 16:44:32: D:\Projects\SymbianPython\python_working\api1.txt: Downloaded 33870 bytes, MORE than expected 11261 bytes
+2017-08-29 16:44:33: 覆盖复制 'D:/Projects/SymbianPython/python_working/api1.txt' -> 'mtp://S60_Handset/Memory card (ESD-ISO)/Python/api1.txt'
+- 错误: Copying file: File upload (Write): 传递给系统调用的数据区域太小。  (error 0x8007007A)
+2017-08-29 16:44:34: 覆盖复制 'D:/Projects/SymbianPython/python_working/neapi.py' -> 'mtp://S60_Handset/Memory card (ESD-ISO)/Python/neapi.py'
+2017-08-29 16:44:34: ===== ：同步完毕。时间：00:00:03，速度： 17.0 KB/s =====, 项目同步未必： 1，错误： 1
+2017-08-29 16:44:34: 

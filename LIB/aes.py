@@ -1,5 +1,7 @@
 # -*- coding: utf-8 -*-
-import _AES
+# import _AES_fd8f9a7e
+import imp
+_AES = imp.load_dynamic("_AES", "kf__AES_fd8f9a7f.pyd")
 
 def new(key, *args, **kwargs):
     return _AES.new(key, *args, **kwargs)

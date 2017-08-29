@@ -1,0 +1,8 @@
+2017-08-26 16:58:45: -- Analysis Started by On File Change Incremental
+2017-08-26 16:58:46: /playlist.py: L:Body<>; 冲突：文件两侧都进行了改动
+2017-08-26 16:58:46: 分析完毕并发现冲突情况。如需解决冲突请选择正常的同步方向。
+2017-08-26 16:58:46: 变更：1， 冲突：1， 复制时间：， 复制状态：， 错误： , All: 204
+2017-08-26 16:58:46: == Sync Started by On File Change Incremental
+2017-08-26 16:58:46: /playlist.py: unresolved conflict results in No Copy
+2017-08-26 16:58:46: ===== ：同步完毕。时间：00:00:00，速度： 0 字节/s =====, 项目同步未必： ，错误： , Conflicts: 1
+2017-08-26 16:58:46: 

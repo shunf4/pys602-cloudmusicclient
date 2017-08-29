@@ -1,0 +1,15 @@
+2017-08-26 14:23:44: -- Analysis Started by On File Change Incremental
+2017-08-26 14:23:45: 变更：9， 冲突：， 复制时间：， 复制状态：， 错误： , All: 204
+2017-08-26 14:23:45: Left to Right: Copy File: 9 
+2017-08-26 14:23:45: == Sync Started by On File Change Incremental
+2017-08-26 14:23:45: 覆盖复制 'D:/Projects/SymbianPython/python/captcha.png' -> 'mtp://S60_Handset/Memory card (ESD-ISO)/Private/fd8f9a7e/captcha.png'
+2017-08-26 14:23:46: 覆盖复制 'D:/Projects/SymbianPython/python/LIB/simplejson/__init__.pyc' -> 'mtp://S60_Handset/Memory card (ESD-ISO)/Private/fd8f9a7e/LIB/simplejson/__init__.pyc'
+2017-08-26 14:23:46: 覆盖复制 'D:/Projects/SymbianPython/python/LIB/simplejson/_speedups.pyc' -> 'mtp://S60_Handset/Memory card (ESD-ISO)/Private/fd8f9a7e/LIB/simplejson/_speedups.pyc'
+2017-08-26 14:23:47: 覆盖复制 'D:/Projects/SymbianPython/python/LIB/simplejson/compat.pyc' -> 'mtp://S60_Handset/Memory card (ESD-ISO)/Private/fd8f9a7e/LIB/simplejson/compat.pyc'
+2017-08-26 14:23:48: 覆盖复制 'D:/Projects/SymbianPython/python/LIB/simplejson/decoder.pyc' -> 'mtp://S60_Handset/Memory card (ESD-ISO)/Private/fd8f9a7e/LIB/simplejson/decoder.pyc'
+2017-08-26 14:23:48: 覆盖复制 'D:/Projects/SymbianPython/python/LIB/simplejson/encoder.pyc' -> 'mtp://S60_Handset/Memory card (ESD-ISO)/Private/fd8f9a7e/LIB/simplejson/encoder.pyc'
+2017-08-26 14:23:49: 覆盖复制 'D:/Projects/SymbianPython/python/LIB/simplejson/scanner.pyc' -> 'mtp://S60_Handset/Memory card (ESD-ISO)/Private/fd8f9a7e/LIB/simplejson/scanner.pyc'
+2017-08-26 14:23:50: 覆盖复制 'D:/Projects/SymbianPython/python/neapi.pyc' -> 'mtp://S60_Handset/Memory card (ESD-ISO)/Private/fd8f9a7e/neapi.pyc'
+2017-08-26 14:23:50: 覆盖复制 'D:/Projects/SymbianPython/python/tools.pyc' -> 'mtp://S60_Handset/Memory card (ESD-ISO)/Private/fd8f9a7e/tools.pyc'
+2017-08-26 14:23:50: ===== ：同步完毕。时间：00:00:05，速度： 25.5 KB/s =====, 项目同步未必： 9，错误： 
+2017-08-26 14:23:50: 

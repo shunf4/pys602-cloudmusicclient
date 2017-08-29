@@ -1,0 +1,10 @@
+2017-08-28 16:52:53: -- Analysis Started by On File Change Incremental
+2017-08-28 16:52:53: 变更：2， 冲突：， 复制时间：， 复制状态：， 错误： , All: 219
+2017-08-28 16:52:53: Left to Right: Copy File: 2 
+2017-08-28 16:52:53: == Sync Started by On File Change Incremental
+2017-08-28 16:52:53: D:\Projects\SymbianPython\python_working\.git\FETCH_HEAD: Downloaded 102 bytes, MORE than expected 0 bytes
+2017-08-28 16:52:53: 覆盖复制 'D:/Projects/SymbianPython/python_working/.git/FETCH_HEAD' -> 'mtp://S60_Handset/Memory card (ESD-ISO)/Python/.git/FETCH_HEAD'
+- 错误: Copying file: File upload (Write): 传递给系统调用的数据区域太小。  (error 0x8007007A)
+2017-08-28 16:52:54: 覆盖复制 'D:/Projects/SymbianPython/python_working/default.py' -> 'mtp://S60_Handset/Memory card (ESD-ISO)/Python/default.py'
+2017-08-28 16:52:54: ===== ：同步完毕。时间：00:00:01，速度： 85.7 KB/s =====, 项目同步未必： 1，错误： 1
+2017-08-28 16:52:54: 

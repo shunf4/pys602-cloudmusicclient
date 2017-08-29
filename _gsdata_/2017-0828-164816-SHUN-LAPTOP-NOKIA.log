@@ -1,0 +1,8 @@
+2017-08-28 16:48:17: -- Analysis Started by On File Change Incremental
+2017-08-28 16:48:17: 变更：1， 冲突：， 复制时间：， 复制状态：， 错误： , All: 219
+2017-08-28 16:48:17: Left to Right: Copy File: 1 
+2017-08-28 16:48:17: == Sync Started by On File Change Incremental
+2017-08-28 16:48:17: 覆盖复制 'D:/Projects/SymbianPython/python_working/launcher.py' -> 'mtp://S60_Handset/Memory card (ESD-ISO)/Python/launcher.py'
+- 错误: Copying file: Overwriting file (destination delete, Delete): 函数不正确。  (error 1)
+2017-08-28 16:48:17: ===== ：同步完毕。时间：00:00:00，速度： 0 字节/s =====, 项目同步未必： ，错误： 1
+2017-08-28 16:48:17: 

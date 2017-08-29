@@ -1,0 +1,7 @@
+2017-08-26 00:54:52: -- Analysis Started by On File Change Incremental
+2017-08-26 00:54:52: 变更：1， 冲突：， 复制时间：， 复制状态：， 错误： , All: 195
+2017-08-26 00:54:52: Left to Right: Delete File: 1 
+2017-08-26 00:54:52: == Sync Started by On File Change Incremental
+2017-08-26 00:54:53: 删除文件 'mtp://S60_Handset/Memory card (ESD-ISO)/Private/fd8f9a7e/LIB/simplejson/simplejson.py'
+2017-08-26 00:54:53: ===== ：同步完毕。时间：00:00:01，速度： 0 字节/s =====, 项目同步未必： 1，错误： 
+2017-08-26 00:54:53: 

@@ -1,0 +1,8 @@
+2017-08-28 18:27:10: -- Analysis Started by On File Change Incremental
+2017-08-28 18:27:11: 变更：1， 冲突：， 复制时间：， 复制状态：， 错误： , All: 219
+2017-08-28 18:27:11: Left to Right: Copy File: 1 
+2017-08-28 18:27:11: == Sync Started by On File Change Incremental
+2017-08-28 18:27:12: 覆盖复制 'D:/Projects/SymbianPython/python_working/default.py' -> 'mtp://S60_Handset/Memory card (ESD-ISO)/Python/default.py'
+- 错误: Copying file: Device is busy. MTP device can't execute operations in parallel, so please avoid multiple sync jobs or threads.
+2017-08-28 18:27:13: ===== ：同步完毕。时间：00:00:02，速度： 86.5 KB/s =====, 项目同步未必： ，错误： 1
+2017-08-28 18:27:13: 

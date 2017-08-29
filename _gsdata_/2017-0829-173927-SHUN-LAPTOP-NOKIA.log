@@ -1,0 +1,13 @@
+2017-08-29 17:39:28: -- Analysis Started by On File Change Incremental
+2017-08-29 17:39:28: 变更：4， 冲突：， 复制时间：， 复制状态：， 错误： , All: 223
+2017-08-29 17:39:28: Left to Right: Copy File: 4 
+2017-08-29 17:39:28: == Sync Started by On File Change Incremental
+2017-08-29 17:39:29: 覆盖复制 'D:/Projects/SymbianPython/python_working/api0.txt' -> 'mtp://S60_Handset/Memory card (ESD-ISO)/Python/api0.txt'
+2017-08-29 17:39:29: D:\Projects\SymbianPython\python_working\api1.txt: Downloaded 83801 bytes, MORE than expected 83711 bytes
+2017-08-29 17:39:30: 覆盖复制 'D:/Projects/SymbianPython/python_working/api1.txt' -> 'mtp://S60_Handset/Memory card (ESD-ISO)/Python/api1.txt'
+- 错误: Copying file: File upload (Write): 传递给系统调用的数据区域太小。  (error 0x8007007A)
+2017-08-29 17:39:30: D:/Projects/SymbianPython/python_working/localdata.txt: Source file has changed between Analyze and Sync from '[file] size=1,223 accu-time=2017-08-29 17:39:28 attr=Archive' to 'size=1,223 time=2017-08-29 17:39:30', noted in source file state
+2017-08-29 17:39:30: 覆盖复制 'D:/Projects/SymbianPython/python_working/localdata.txt' -> 'mtp://S60_Handset/Memory card (ESD-ISO)/Python/localdata.txt'
+2017-08-29 17:39:31: 覆盖复制 'D:/Projects/SymbianPython/python_working/neapi.pyc' -> 'mtp://S60_Handset/Memory card (ESD-ISO)/Python/neapi.pyc'
+2017-08-29 17:39:31: ===== ：同步完毕。时间：00:00:03，速度： 23.0 KB/s =====, 项目同步未必： 3，错误： 1
+2017-08-29 17:39:31: 

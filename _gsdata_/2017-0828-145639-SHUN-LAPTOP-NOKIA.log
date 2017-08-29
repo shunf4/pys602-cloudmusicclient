@@ -1,0 +1,225 @@
+2017-08-28 14:56:39: -- Analysis Started by User Command
+2017-08-28 14:56:40: /default.py: 警告：旧文件将替换新文件
+2017-08-28 14:56:40: /demo.py: 警告：旧文件将替换新文件
+2017-08-28 14:56:40: /LIB/aes.py: 警告：旧文件将替换新文件
+2017-08-28 14:56:40: /LIB/CFileMan.pyd: 警告：旧文件将替换新文件
+2017-08-28 14:56:40: /LIB/CFileMan_api_en.txt: 警告：旧文件将替换新文件
+2017-08-28 14:56:40: /LIB/kf_CFileMan.pyd: 警告：旧文件将替换新文件
+2017-08-28 14:56:40: /LIB/ujson.py: 警告：旧文件将替换新文件
+2017-08-28 14:56:40: /lib.zip: 警告：旧文件将替换新文件
+2017-08-28 14:56:40: /neapi.py: 警告：旧文件将替换新文件
+2017-08-28 14:56:40: /pic/actionbar_discover_normal.png: 警告：旧文件将替换新文件
+2017-08-28 14:56:40: /pic/fm_default_cover_largeex.scale-100.png: 警告：旧文件将替换新文件
+2017-08-28 14:56:40: /pic/list_detail_icn_fav.bmp: 警告：旧文件将替换新文件
+2017-08-28 14:56:40: /pic/list_detail_icn_fav.png: 警告：旧文件将替换新文件
+2017-08-28 14:56:40: /pic/list_detail_icn_fav_.bmp: 警告：旧文件将替换新文件
+2017-08-28 14:56:40: /pic/list_detail_icn_faved.bmp: 警告：旧文件将替换新文件
+2017-08-28 14:56:40: /pic/list_detail_icn_faved.png: 警告：旧文件将替换新文件
+2017-08-28 14:56:40: /pic/list_detail_icn_faved_.bmp: 警告：旧文件将替换新文件
+2017-08-28 14:56:40: /pic/pic.bmp: 警告：旧文件将替换新文件
+2017-08-28 14:56:40: /pic/pic.png: 警告：旧文件将替换新文件
+2017-08-28 14:56:40: /pic/play_disc.png: 警告：旧文件将替换新文件
+2017-08-28 14:56:40: /pic/play_fm_btn_love_prs.png: 警告：旧文件将替换新文件
+2017-08-28 14:56:40: /pic/play_fm_btn_loved.png: 警告：旧文件将替换新文件
+2017-08-28 14:56:40: /pic/play_fm_btn_loved_.bmp: 警告：旧文件将替换新文件
+2017-08-28 14:56:40: /pic/play_icn_cmt.bmp: 警告：旧文件将替换新文件
+2017-08-28 14:56:40: /pic/play_icn_cmt.png: 警告：旧文件将替换新文件
+2017-08-28 14:56:40: /pic/play_icn_cmt_.bmp: 警告：旧文件将替换新文件
+2017-08-28 14:56:40: /pic/play_icn_loop.bmp: 警告：旧文件将替换新文件
+2017-08-28 14:56:40: /pic/play_icn_loop.png: 警告：旧文件将替换新文件
+2017-08-28 14:56:40: /pic/play_icn_loop_.bmp: 警告：旧文件将替换新文件
+2017-08-28 14:56:40: /pic/play_icn_love.bmp: 警告：旧文件将替换新文件
+2017-08-28 14:56:40: /pic/play_icn_love.png: 警告：旧文件将替换新文件
+2017-08-28 14:56:40: /pic/play_icn_love_.bmp: 警告：旧文件将替换新文件
+2017-08-28 14:56:40: /pic/play_icn_loved.bmp: 警告：旧文件将替换新文件
+2017-08-28 14:56:40: /pic/play_icn_loved.png: 警告：旧文件将替换新文件
+2017-08-28 14:56:40: /pic/play_icn_loved_.bmp: 警告：旧文件将替换新文件
+2017-08-28 14:56:40: /pic/play_icn_one.bmp: 警告：旧文件将替换新文件
+2017-08-28 14:56:40: /pic/play_icn_one.png: 警告：旧文件将替换新文件
+2017-08-28 14:56:40: /pic/play_icn_one_.bmp: 警告：旧文件将替换新文件
+2017-08-28 14:56:40: /pic/play_icn_shuffle.bmp: 警告：旧文件将替换新文件
+2017-08-28 14:56:40: /pic/play_icn_shuffle.png: 警告：旧文件将替换新文件
+2017-08-28 14:56:40: /pic/play_icn_shuffle_.bmp: 警告：旧文件将替换新文件
+2017-08-28 14:56:40: /pic/play_needle.png: 警告：旧文件将替换新文件
+2017-08-28 14:56:40: /pic/play_needle_.png: 警告：旧文件将替换新文件
+2017-08-28 14:56:40: /pic/SplashScreen.scale-100.bmp: 警告：旧文件将替换新文件
+2017-08-28 14:56:40: /pic/SplashScreen.scale-100.png: 警告：旧文件将替换新文件
+2017-08-28 14:56:40: /pic.bmp: 警告：旧文件将替换新文件
+2017-08-28 14:56:40: /symbian_tools.py: 警告：旧文件将替换新文件
+2017-08-28 14:56:40: /tools.py: 警告：旧文件将替换新文件
+2017-08-28 14:56:40: /util.py: 警告：旧文件将替换新文件
+2017-08-28 14:56:40: 变更：169， 冲突：， 复制时间：， 复制状态：6， 错误： , All: 219
+2017-08-28 14:56:40: Left to Right: Copy File: 68 Delete File: 99 Rename/Move File/Folder: 2 
+2017-08-28 14:56:40: ----- ：分析已结束。 历时 00:00:01， 速度： 176 个文件/秒 -----
+2017-08-28 14:56:40: 
+2017-08-28 14:56:47: == Sync Started by User Command
+2017-08-28 14:56:47: 删除文件 'mtp://S60_Handset/Memory card (ESD-ISO)/Python/2.demo.py'
+2017-08-28 14:56:47: 删除文件 'mtp://S60_Handset/Memory card (ESD-ISO)/Python/3.demo.py'
+2017-08-28 14:58:03: 删除文件 'mtp://S60_Handset/Memory card (ESD-ISO)/Python/captcha.png'
+2017-08-28 14:58:03: 删除文件 'mtp://S60_Handset/Memory card (ESD-ISO)/Python/config.txt'
+2017-08-28 14:58:03: 删除文件 'mtp://S60_Handset/Memory card (ESD-ISO)/Python/demo.1.py'
+2017-08-28 14:58:04: 删除文件 'mtp://S60_Handset/Memory card (ESD-ISO)/Python/http.txt'
+2017-08-28 14:58:04: 删除文件 'mtp://S60_Handset/Memory card (ESD-ISO)/Python/LIB/_appuifw2.pyd'
+2017-08-28 14:58:04: 删除文件 'mtp://S60_Handset/Memory card (ESD-ISO)/Python/LIB/appuifw2.pyw'
+2017-08-28 14:58:04: 删除文件 'mtp://S60_Handset/Memory card (ESD-ISO)/Python/LIB/ARMAES.PYD'
+2017-08-28 14:58:04: 删除文件 'mtp://S60_Handset/Memory card (ESD-ISO)/Python/LIB/FNMATCH.PY'
+2017-08-28 14:58:04: 删除文件 'mtp://S60_Handset/Memory card (ESD-ISO)/Python/LIB/GCCAES.PYD'
+2017-08-28 14:58:04: 删除文件 'mtp://S60_Handset/Memory card (ESD-ISO)/Python/LIB/GLOB.PY'
+2017-08-28 14:58:05: 删除文件 'mtp://S60_Handset/Memory card (ESD-ISO)/Python/LIB/kf__AES.PYD'
+2017-08-28 14:58:05: 删除文件 'mtp://S60_Handset/Memory card (ESD-ISO)/Python/LIB/kf__appuifw2.pyd'
+2017-08-28 14:58:05: 删除文件 'mtp://S60_Handset/Memory card (ESD-ISO)/Python/LIB/kf__ujson.pyd'
+2017-08-28 14:58:05: 删除文件 'mtp://S60_Handset/Memory card (ESD-ISO)/Python/LIB/PHCOMM.PY'
+2017-08-28 14:58:05: 删除文件 'mtp://S60_Handset/Memory card (ESD-ISO)/Python/LIB/PHCOMM.PYC'
+2017-08-28 14:58:05: 删除文件 'mtp://S60_Handset/Memory card (ESD-ISO)/Python/LIB/PUSHLIB.PY'
+2017-08-28 14:58:05: 删除文件 'mtp://S60_Handset/Memory card (ESD-ISO)/Python/localdata.txt'
+2017-08-28 14:58:05: 删除文件 'mtp://S60_Handset/Memory card (ESD-ISO)/Python/log.txt'
+2017-08-28 14:58:06: 删除文件 'mtp://S60_Handset/Memory card (ESD-ISO)/Python/neapi.pyc'
+2017-08-28 14:58:06: 删除文件 'mtp://S60_Handset/Memory card (ESD-ISO)/Python/nelog.pyc'
+2017-08-28 14:58:06: 删除文件 'mtp://S60_Handset/Memory card (ESD-ISO)/Python/old/api.py'
+2017-08-28 14:58:06: 删除文件 'mtp://S60_Handset/Memory card (ESD-ISO)/Python/old/api.pyc'
+2017-08-28 14:58:06: 删除文件 'mtp://S60_Handset/Memory card (ESD-ISO)/Python/old/appuifwtest.py'
+2017-08-28 14:58:06: 删除文件 'mtp://S60_Handset/Memory card (ESD-ISO)/Python/old/default.py'
+2017-08-28 14:58:06: 删除文件 'mtp://S60_Handset/Memory card (ESD-ISO)/Python/old/filebrowser.py'
+2017-08-28 14:58:06: 删除文件 'mtp://S60_Handset/Memory card (ESD-ISO)/Python/old/fnmatch.py'
+2017-08-28 14:58:06: 删除文件 'mtp://S60_Handset/Memory card (ESD-ISO)/Python/old/glob.py'
+2017-08-28 14:58:07: 删除文件 'mtp://S60_Handset/Memory card (ESD-ISO)/Python/old/neapi.py'
+2017-08-28 14:58:07: 删除文件 'mtp://S60_Handset/Memory card (ESD-ISO)/Python/old/phcomm.py'
+2017-08-28 14:58:07: 删除文件 'mtp://S60_Handset/Memory card (ESD-ISO)/Python/old/phpush.py'
+2017-08-28 14:58:07: 删除文件 'mtp://S60_Handset/Memory card (ESD-ISO)/Python/old/pic/actionbar_discover_normal.png'
+2017-08-28 14:58:07: 删除文件 'mtp://S60_Handset/Memory card (ESD-ISO)/Python/old/pic/fm_default_cover_largeex.scale-100.png'
+2017-08-28 14:58:08: 删除文件 'mtp://S60_Handset/Memory card (ESD-ISO)/Python/old/pic/list_detail_icn_fav.bmp'
+2017-08-28 14:58:08: 删除文件 'mtp://S60_Handset/Memory card (ESD-ISO)/Python/old/pic/list_detail_icn_fav.png'
+2017-08-28 14:58:08: 删除文件 'mtp://S60_Handset/Memory card (ESD-ISO)/Python/old/pic/list_detail_icn_fav_.bmp'
+2017-08-28 14:58:08: 删除文件 'mtp://S60_Handset/Memory card (ESD-ISO)/Python/old/pic/list_detail_icn_faved.bmp'
+2017-08-28 14:58:08: 删除文件 'mtp://S60_Handset/Memory card (ESD-ISO)/Python/old/pic/list_detail_icn_faved.png'
+2017-08-28 14:58:08: 删除文件 'mtp://S60_Handset/Memory card (ESD-ISO)/Python/old/pic/list_detail_icn_faved_.bmp'
+2017-08-28 14:58:08: 删除文件 'mtp://S60_Handset/Memory card (ESD-ISO)/Python/old/pic/pic.bmp'
+2017-08-28 14:58:09: 删除文件 'mtp://S60_Handset/Memory card (ESD-ISO)/Python/old/pic/pic.png'
+2017-08-28 14:58:09: 删除文件 'mtp://S60_Handset/Memory card (ESD-ISO)/Python/old/pic/play_disc.png'
+2017-08-28 14:58:09: 删除文件 'mtp://S60_Handset/Memory card (ESD-ISO)/Python/old/pic/play_fm_btn_love_prs.png'
+2017-08-28 14:58:09: 删除文件 'mtp://S60_Handset/Memory card (ESD-ISO)/Python/old/pic/play_fm_btn_loved.png'
+2017-08-28 14:58:09: 删除文件 'mtp://S60_Handset/Memory card (ESD-ISO)/Python/old/pic/play_fm_btn_loved_.bmp'
+2017-08-28 14:58:09: 删除文件 'mtp://S60_Handset/Memory card (ESD-ISO)/Python/old/pic/play_icn_cmt.bmp'
+2017-08-28 14:58:09: 删除文件 'mtp://S60_Handset/Memory card (ESD-ISO)/Python/old/pic/play_icn_cmt.png'
+2017-08-28 14:58:10: 删除文件 'mtp://S60_Handset/Memory card (ESD-ISO)/Python/old/pic/play_icn_cmt_.bmp'
+2017-08-28 14:58:10: 删除文件 'mtp://S60_Handset/Memory card (ESD-ISO)/Python/old/pic/play_icn_loop.bmp'
+2017-08-28 14:58:10: 删除文件 'mtp://S60_Handset/Memory card (ESD-ISO)/Python/old/pic/play_icn_loop.png'
+2017-08-28 14:58:10: 删除文件 'mtp://S60_Handset/Memory card (ESD-ISO)/Python/old/pic/play_icn_loop_.bmp'
+2017-08-28 14:58:10: 删除文件 'mtp://S60_Handset/Memory card (ESD-ISO)/Python/old/pic/play_icn_love.bmp'
+2017-08-28 14:58:10: 删除文件 'mtp://S60_Handset/Memory card (ESD-ISO)/Python/old/pic/play_icn_love.png'
+2017-08-28 14:58:11: 删除文件 'mtp://S60_Handset/Memory card (ESD-ISO)/Python/old/pic/play_icn_love_.bmp'
+2017-08-28 14:58:11: 删除文件 'mtp://S60_Handset/Memory card (ESD-ISO)/Python/old/pic/play_icn_loved.bmp'
+2017-08-28 14:58:11: 删除文件 'mtp://S60_Handset/Memory card (ESD-ISO)/Python/old/pic/play_icn_loved.png'
+2017-08-28 14:58:11: 删除文件 'mtp://S60_Handset/Memory card (ESD-ISO)/Python/old/pic/play_icn_loved_.bmp'
+2017-08-28 14:58:11: 删除文件 'mtp://S60_Handset/Memory card (ESD-ISO)/Python/old/pic/play_icn_one.bmp'
+2017-08-28 14:58:11: 删除文件 'mtp://S60_Handset/Memory card (ESD-ISO)/Python/old/pic/play_icn_one.png'
+2017-08-28 14:58:12: 删除文件 'mtp://S60_Handset/Memory card (ESD-ISO)/Python/old/pic/play_icn_one_.bmp'
+2017-08-28 14:58:12: 删除文件 'mtp://S60_Handset/Memory card (ESD-ISO)/Python/old/pic/play_icn_shuffle.bmp'
+2017-08-28 14:58:12: 删除文件 'mtp://S60_Handset/Memory card (ESD-ISO)/Python/old/pic/play_icn_shuffle.png'
+2017-08-28 14:58:12: 删除文件 'mtp://S60_Handset/Memory card (ESD-ISO)/Python/old/pic/play_icn_shuffle_.bmp'
+2017-08-28 14:58:12: 删除文件 'mtp://S60_Handset/Memory card (ESD-ISO)/Python/old/pic/play_needle.png'
+2017-08-28 14:58:12: 删除文件 'mtp://S60_Handset/Memory card (ESD-ISO)/Python/old/pic/play_needle_.png'
+2017-08-28 14:58:13: 删除文件 'mtp://S60_Handset/Memory card (ESD-ISO)/Python/old/pic/SplashScreen.scale-100.bmp'
+2017-08-28 14:58:13: 删除文件 'mtp://S60_Handset/Memory card (ESD-ISO)/Python/old/pic/SplashScreen.scale-100.png'
+2017-08-28 14:58:13: 删除文件夹 'mtp://S60_Handset/Memory card (ESD-ISO)/Python/old/pic'
+2017-08-28 14:58:13: 删除文件 'mtp://S60_Handset/Memory card (ESD-ISO)/Python/old/pic.bmp'
+2017-08-28 14:58:13: 删除文件 'mtp://S60_Handset/Memory card (ESD-ISO)/Python/old/playlist.py'
+2017-08-28 14:58:13: 删除文件 'mtp://S60_Handset/Memory card (ESD-ISO)/Python/old/pushlib.py'
+2017-08-28 14:58:13: 删除文件 'mtp://S60_Handset/Memory card (ESD-ISO)/Python/old/simplejson/__init__.py'
+2017-08-28 14:58:13: 删除文件 'mtp://S60_Handset/Memory card (ESD-ISO)/Python/old/simplejson/__init__.pyc'
+2017-08-28 14:58:14: 删除文件 'mtp://S60_Handset/Memory card (ESD-ISO)/Python/old/simplejson/decoder.py'
+2017-08-28 14:58:14: 删除文件 'mtp://S60_Handset/Memory card (ESD-ISO)/Python/old/simplejson/decoder.pyc'
+2017-08-28 14:58:14: 删除文件 'mtp://S60_Handset/Memory card (ESD-ISO)/Python/old/simplejson/encoder.py'
+2017-08-28 14:58:14: 删除文件 'mtp://S60_Handset/Memory card (ESD-ISO)/Python/old/simplejson/encoder.pyc'
+2017-08-28 14:58:14: 删除文件 'mtp://S60_Handset/Memory card (ESD-ISO)/Python/old/simplejson/scanner.py'
+2017-08-28 14:58:14: 删除文件 'mtp://S60_Handset/Memory card (ESD-ISO)/Python/old/simplejson/scanner.pyc'
+2017-08-28 14:58:14: 删除文件 'mtp://S60_Handset/Memory card (ESD-ISO)/Python/old/simplejson/tests/__init__.py'
+2017-08-28 14:58:14: 删除文件 'mtp://S60_Handset/Memory card (ESD-ISO)/Python/old/simplejson/tests/test_fail.py'
+2017-08-28 14:58:14: 删除文件 'mtp://S60_Handset/Memory card (ESD-ISO)/Python/old/simplejson/tests/test_pass1.py'
+2017-08-28 14:58:15: 删除文件 'mtp://S60_Handset/Memory card (ESD-ISO)/Python/old/simplejson/tests/test_pass2.py'
+2017-08-28 14:58:15: 删除文件 'mtp://S60_Handset/Memory card (ESD-ISO)/Python/old/simplejson/tests/test_pass3.py'
+2017-08-28 14:58:15: 删除文件 'mtp://S60_Handset/Memory card (ESD-ISO)/Python/old/simplejson/tests/test_recursion.py'
+2017-08-28 14:58:15: 删除文件夹 'mtp://S60_Handset/Memory card (ESD-ISO)/Python/old/simplejson/tests'
+2017-08-28 14:58:16: 删除文件夹 'mtp://S60_Handset/Memory card (ESD-ISO)/Python/old/simplejson'
+2017-08-28 14:58:16: 删除文件 'mtp://S60_Handset/Memory card (ESD-ISO)/Python/old/util.py'
+2017-08-28 14:58:16: 删除文件夹 'mtp://S60_Handset/Memory card (ESD-ISO)/Python/old'
+2017-08-28 14:58:16: 删除文件 'mtp://S60_Handset/Memory card (ESD-ISO)/Python/old-built/Py网易云Alpha_0_0_6.sis'
+2017-08-28 14:58:16: 删除文件夹 'mtp://S60_Handset/Memory card (ESD-ISO)/Python/old-built'
+2017-08-28 14:58:16: 删除文件 'mtp://S60_Handset/Memory card (ESD-ISO)/Python/PHPUSH.PY'
+2017-08-28 14:58:16: 删除文件 'mtp://S60_Handset/Memory card (ESD-ISO)/Python/playlist.pyc'
+2017-08-28 14:58:16: 删除文件 'mtp://S60_Handset/Memory card (ESD-ISO)/Python/README.md'
+2017-08-28 14:58:17: 删除文件 'mtp://S60_Handset/Memory card (ESD-ISO)/Python/symbian_tools.pyc'
+2017-08-28 14:58:17: 删除文件 'mtp://S60_Handset/Memory card (ESD-ISO)/Python/tmp.txt'
+2017-08-28 14:58:17: 删除文件 'mtp://S60_Handset/Memory card (ESD-ISO)/Python/tools.pyc'
+2017-08-28 14:58:17: 删除文件 'mtp://S60_Handset/Memory card (ESD-ISO)/Python/work.txt'
+2017-08-28 14:58:17: 覆盖复制 'D:/Projects/SymbianPython/python_working/default.py' -> 'mtp://S60_Handset/Memory card (ESD-ISO)/Python/default.py'
+2017-08-28 14:58:18: 覆盖复制 'D:/Projects/SymbianPython/python_working/demo.py' -> 'mtp://S60_Handset/Memory card (ESD-ISO)/Python/demo.py'
+2017-08-28 14:58:18: 新建复制 'D:/Projects/SymbianPython/python_working/launcher.py' -> 'mtp://S60_Handset/Memory card (ESD-ISO)/Python/launcher.py'
+2017-08-28 14:58:18: 覆盖复制 'D:/Projects/SymbianPython/python_working/LIB/aes.py' -> 'mtp://S60_Handset/Memory card (ESD-ISO)/Python/LIB/aes.py'
+2017-08-28 14:58:18: 移动文件 mtp://S60_Handset/Memory card (ESD-ISO)/Python/LIB/audio_bugfix.py -> mtp://S60_Handset/Memory card (ESD-ISO)/Python/LIB/audio_bugfix_vars.py
+2017-08-28 14:58:19: 覆盖复制 'D:/Projects/SymbianPython/python_working/LIB/audio_compatible.py' -> 'mtp://S60_Handset/Memory card (ESD-ISO)/Python/LIB/audio_compatible.py'
+2017-08-28 14:58:19: 覆盖复制 'D:/Projects/SymbianPython/python_working/LIB/CFileMan.pyd' -> 'mtp://S60_Handset/Memory card (ESD-ISO)/Python/LIB/CFileMan.pyd'
+2017-08-28 14:58:19: 覆盖复制 'D:/Projects/SymbianPython/python_working/LIB/CFileMan_api_en.txt' -> 'mtp://S60_Handset/Memory card (ESD-ISO)/Python/LIB/CFileMan_api_en.txt'
+2017-08-28 14:58:20: 覆盖复制 'D:/Projects/SymbianPython/python_working/LIB/kf_CFileMan.pyd' -> 'mtp://S60_Handset/Memory card (ESD-ISO)/Python/LIB/kf_CFileMan.pyd'
+2017-08-28 14:58:20: 新建复制 'D:/Projects/SymbianPython/python_working/LIB/simplejson/__init__.py' -> 'mtp://S60_Handset/Memory card (ESD-ISO)/Python/LIB/simplejson/__init__.py'
+2017-08-28 14:58:20: 新建复制 'D:/Projects/SymbianPython/python_working/LIB/simplejson/__init__.pyc' -> 'mtp://S60_Handset/Memory card (ESD-ISO)/Python/LIB/simplejson/__init__.pyc'
+2017-08-28 14:58:20: 新建复制 'D:/Projects/SymbianPython/python_working/LIB/simplejson/_speedups.py' -> 'mtp://S60_Handset/Memory card (ESD-ISO)/Python/LIB/simplejson/_speedups.py'
+2017-08-28 14:58:21: 新建复制 'D:/Projects/SymbianPython/python_working/LIB/simplejson/_speedups.pyc' -> 'mtp://S60_Handset/Memory card (ESD-ISO)/Python/LIB/simplejson/_speedups.pyc'
+2017-08-28 14:58:21: 新建复制 'D:/Projects/SymbianPython/python_working/LIB/simplejson/compat.py' -> 'mtp://S60_Handset/Memory card (ESD-ISO)/Python/LIB/simplejson/compat.py'
+2017-08-28 14:58:21: 新建复制 'D:/Projects/SymbianPython/python_working/LIB/simplejson/compat.pyc' -> 'mtp://S60_Handset/Memory card (ESD-ISO)/Python/LIB/simplejson/compat.pyc'
+2017-08-28 14:58:21: 新建复制 'D:/Projects/SymbianPython/python_working/LIB/simplejson/decoder.py' -> 'mtp://S60_Handset/Memory card (ESD-ISO)/Python/LIB/simplejson/decoder.py'
+2017-08-28 14:58:22: 新建复制 'D:/Projects/SymbianPython/python_working/LIB/simplejson/decoder.pyc' -> 'mtp://S60_Handset/Memory card (ESD-ISO)/Python/LIB/simplejson/decoder.pyc'
+2017-08-28 14:58:22: 新建复制 'D:/Projects/SymbianPython/python_working/LIB/simplejson/encoder.py' -> 'mtp://S60_Handset/Memory card (ESD-ISO)/Python/LIB/simplejson/encoder.py'
+2017-08-28 14:58:22: 新建复制 'D:/Projects/SymbianPython/python_working/LIB/simplejson/encoder.pyc' -> 'mtp://S60_Handset/Memory card (ESD-ISO)/Python/LIB/simplejson/encoder.pyc'
+2017-08-28 14:58:22: 新建复制 'D:/Projects/SymbianPython/python_working/LIB/simplejson/ordered_dict.py' -> 'mtp://S60_Handset/Memory card (ESD-ISO)/Python/LIB/simplejson/ordered_dict.py'
+2017-08-28 14:58:23: 新建复制 'D:/Projects/SymbianPython/python_working/LIB/simplejson/ordered_dict.pyc' -> 'mtp://S60_Handset/Memory card (ESD-ISO)/Python/LIB/simplejson/ordered_dict.pyc'
+2017-08-28 14:58:23: 新建复制 'D:/Projects/SymbianPython/python_working/LIB/simplejson/scanner.py' -> 'mtp://S60_Handset/Memory card (ESD-ISO)/Python/LIB/simplejson/scanner.py'
+2017-08-28 14:58:23: 新建复制 'D:/Projects/SymbianPython/python_working/LIB/simplejson/scanner.pyc' -> 'mtp://S60_Handset/Memory card (ESD-ISO)/Python/LIB/simplejson/scanner.pyc'
+2017-08-28 14:58:23: 新建复制 'D:/Projects/SymbianPython/python_working/LIB/simplejson/tool.py' -> 'mtp://S60_Handset/Memory card (ESD-ISO)/Python/LIB/simplejson/tool.py'
+2017-08-28 14:58:24: 覆盖复制 'D:/Projects/SymbianPython/python_working/LIB/ujson.py' -> 'mtp://S60_Handset/Memory card (ESD-ISO)/Python/LIB/ujson.py'
+2017-08-28 14:58:24: 覆盖复制 'D:/Projects/SymbianPython/python_working/lib.zip' -> 'mtp://S60_Handset/Memory card (ESD-ISO)/Python/lib.zip'
+2017-08-28 14:58:25: 覆盖复制 'D:/Projects/SymbianPython/python_working/neapi.py' -> 'mtp://S60_Handset/Memory card (ESD-ISO)/Python/neapi.py'
+2017-08-28 14:58:25: 覆盖复制 'D:/Projects/SymbianPython/python_working/pic/actionbar_discover_normal.png' -> 'mtp://S60_Handset/Memory card (ESD-ISO)/Python/pic/actionbar_discover_normal.png'
+2017-08-28 14:58:26: 覆盖复制 'D:/Projects/SymbianPython/python_working/pic/fm_default_cover_largeex.scale-100.png' -> 'mtp://S60_Handset/Memory card (ESD-ISO)/Python/pic/fm_default_cover_largeex.scale-100.png'
+2017-08-28 14:58:26: 覆盖复制 'D:/Projects/SymbianPython/python_working/pic/list_detail_icn_fav.bmp' -> 'mtp://S60_Handset/Memory card (ESD-ISO)/Python/pic/list_detail_icn_fav.bmp'
+2017-08-28 14:58:26: 覆盖复制 'D:/Projects/SymbianPython/python_working/pic/list_detail_icn_fav.png' -> 'mtp://S60_Handset/Memory card (ESD-ISO)/Python/pic/list_detail_icn_fav.png'
+2017-08-28 14:58:27: 覆盖复制 'D:/Projects/SymbianPython/python_working/pic/list_detail_icn_fav_.bmp' -> 'mtp://S60_Handset/Memory card (ESD-ISO)/Python/pic/list_detail_icn_fav_.bmp'
+2017-08-28 14:58:27: 覆盖复制 'D:/Projects/SymbianPython/python_working/pic/list_detail_icn_faved.bmp' -> 'mtp://S60_Handset/Memory card (ESD-ISO)/Python/pic/list_detail_icn_faved.bmp'
+2017-08-28 14:58:28: 覆盖复制 'D:/Projects/SymbianPython/python_working/pic/list_detail_icn_faved.png' -> 'mtp://S60_Handset/Memory card (ESD-ISO)/Python/pic/list_detail_icn_faved.png'
+2017-08-28 14:58:28: 覆盖复制 'D:/Projects/SymbianPython/python_working/pic/list_detail_icn_faved_.bmp' -> 'mtp://S60_Handset/Memory card (ESD-ISO)/Python/pic/list_detail_icn_faved_.bmp'
+2017-08-28 14:58:28: 覆盖复制 'D:/Projects/SymbianPython/python_working/pic/pic.bmp' -> 'mtp://S60_Handset/Memory card (ESD-ISO)/Python/pic/pic.bmp'
+2017-08-28 14:58:29: 覆盖复制 'D:/Projects/SymbianPython/python_working/pic/pic.png' -> 'mtp://S60_Handset/Memory card (ESD-ISO)/Python/pic/pic.png'
+2017-08-28 14:58:29: 覆盖复制 'D:/Projects/SymbianPython/python_working/pic/play_disc.png' -> 'mtp://S60_Handset/Memory card (ESD-ISO)/Python/pic/play_disc.png'
+2017-08-28 14:58:30: 覆盖复制 'D:/Projects/SymbianPython/python_working/pic/play_fm_btn_love_prs.png' -> 'mtp://S60_Handset/Memory card (ESD-ISO)/Python/pic/play_fm_btn_love_prs.png'
+2017-08-28 14:58:30: 覆盖复制 'D:/Projects/SymbianPython/python_working/pic/play_fm_btn_loved.png' -> 'mtp://S60_Handset/Memory card (ESD-ISO)/Python/pic/play_fm_btn_loved.png'
+2017-08-28 14:58:30: 覆盖复制 'D:/Projects/SymbianPython/python_working/pic/play_fm_btn_loved_.bmp' -> 'mtp://S60_Handset/Memory card (ESD-ISO)/Python/pic/play_fm_btn_loved_.bmp'
+2017-08-28 14:58:31: 覆盖复制 'D:/Projects/SymbianPython/python_working/pic/play_icn_cmt.bmp' -> 'mtp://S60_Handset/Memory card (ESD-ISO)/Python/pic/play_icn_cmt.bmp'
+2017-08-28 14:58:31: 覆盖复制 'D:/Projects/SymbianPython/python_working/pic/play_icn_cmt.png' -> 'mtp://S60_Handset/Memory card (ESD-ISO)/Python/pic/play_icn_cmt.png'
+2017-08-28 14:58:32: 覆盖复制 'D:/Projects/SymbianPython/python_working/pic/play_icn_cmt_.bmp' -> 'mtp://S60_Handset/Memory card (ESD-ISO)/Python/pic/play_icn_cmt_.bmp'
+2017-08-28 14:58:32: 覆盖复制 'D:/Projects/SymbianPython/python_working/pic/play_icn_loop.bmp' -> 'mtp://S60_Handset/Memory card (ESD-ISO)/Python/pic/play_icn_loop.bmp'
+2017-08-28 14:58:32: 覆盖复制 'D:/Projects/SymbianPython/python_working/pic/play_icn_loop.png' -> 'mtp://S60_Handset/Memory card (ESD-ISO)/Python/pic/play_icn_loop.png'
+2017-08-28 14:58:33: 覆盖复制 'D:/Projects/SymbianPython/python_working/pic/play_icn_loop_.bmp' -> 'mtp://S60_Handset/Memory card (ESD-ISO)/Python/pic/play_icn_loop_.bmp'
+2017-08-28 14:58:33: 覆盖复制 'D:/Projects/SymbianPython/python_working/pic/play_icn_love.bmp' -> 'mtp://S60_Handset/Memory card (ESD-ISO)/Python/pic/play_icn_love.bmp'
+2017-08-28 14:58:34: 覆盖复制 'D:/Projects/SymbianPython/python_working/pic/play_icn_love.png' -> 'mtp://S60_Handset/Memory card (ESD-ISO)/Python/pic/play_icn_love.png'
+2017-08-28 14:58:34: 覆盖复制 'D:/Projects/SymbianPython/python_working/pic/play_icn_love_.bmp' -> 'mtp://S60_Handset/Memory card (ESD-ISO)/Python/pic/play_icn_love_.bmp'
+2017-08-28 14:58:34: 覆盖复制 'D:/Projects/SymbianPython/python_working/pic/play_icn_loved.bmp' -> 'mtp://S60_Handset/Memory card (ESD-ISO)/Python/pic/play_icn_loved.bmp'
+2017-08-28 14:58:35: 覆盖复制 'D:/Projects/SymbianPython/python_working/pic/play_icn_loved.png' -> 'mtp://S60_Handset/Memory card (ESD-ISO)/Python/pic/play_icn_loved.png'
+2017-08-28 14:58:35: 覆盖复制 'D:/Projects/SymbianPython/python_working/pic/play_icn_loved_.bmp' -> 'mtp://S60_Handset/Memory card (ESD-ISO)/Python/pic/play_icn_loved_.bmp'
+2017-08-28 14:58:36: 覆盖复制 'D:/Projects/SymbianPython/python_working/pic/play_icn_one.bmp' -> 'mtp://S60_Handset/Memory card (ESD-ISO)/Python/pic/play_icn_one.bmp'
+2017-08-28 14:58:36: 覆盖复制 'D:/Projects/SymbianPython/python_working/pic/play_icn_one.png' -> 'mtp://S60_Handset/Memory card (ESD-ISO)/Python/pic/play_icn_one.png'
+2017-08-28 14:58:36: 覆盖复制 'D:/Projects/SymbianPython/python_working/pic/play_icn_one_.bmp' -> 'mtp://S60_Handset/Memory card (ESD-ISO)/Python/pic/play_icn_one_.bmp'
+2017-08-28 14:58:37: 覆盖复制 'D:/Projects/SymbianPython/python_working/pic/play_icn_shuffle.bmp' -> 'mtp://S60_Handset/Memory card (ESD-ISO)/Python/pic/play_icn_shuffle.bmp'
+2017-08-28 14:58:37: 覆盖复制 'D:/Projects/SymbianPython/python_working/pic/play_icn_shuffle.png' -> 'mtp://S60_Handset/Memory card (ESD-ISO)/Python/pic/play_icn_shuffle.png'
+2017-08-28 14:58:38: 覆盖复制 'D:/Projects/SymbianPython/python_working/pic/play_icn_shuffle_.bmp' -> 'mtp://S60_Handset/Memory card (ESD-ISO)/Python/pic/play_icn_shuffle_.bmp'
+2017-08-28 14:58:38: 覆盖复制 'D:/Projects/SymbianPython/python_working/pic/play_needle.png' -> 'mtp://S60_Handset/Memory card (ESD-ISO)/Python/pic/play_needle.png'
+2017-08-28 14:58:38: 覆盖复制 'D:/Projects/SymbianPython/python_working/pic/play_needle_.png' -> 'mtp://S60_Handset/Memory card (ESD-ISO)/Python/pic/play_needle_.png'
+2017-08-28 14:58:39: 覆盖复制 'D:/Projects/SymbianPython/python_working/pic/SplashScreen.scale-100.bmp' -> 'mtp://S60_Handset/Memory card (ESD-ISO)/Python/pic/SplashScreen.scale-100.bmp'
+2017-08-28 14:58:39: 覆盖复制 'D:/Projects/SymbianPython/python_working/pic/SplashScreen.scale-100.png' -> 'mtp://S60_Handset/Memory card (ESD-ISO)/Python/pic/SplashScreen.scale-100.png'
+2017-08-28 14:58:40: 覆盖复制 'D:/Projects/SymbianPython/python_working/pic.bmp' -> 'mtp://S60_Handset/Memory card (ESD-ISO)/Python/pic.bmp'
+2017-08-28 14:58:40: 覆盖复制 'D:/Projects/SymbianPython/python_working/playlist.py' -> 'mtp://S60_Handset/Memory card (ESD-ISO)/Python/playlist.py'
+2017-08-28 14:58:40: 覆盖复制 'D:/Projects/SymbianPython/python_working/symbian_tools.py' -> 'mtp://S60_Handset/Memory card (ESD-ISO)/Python/symbian_tools.py'
+2017-08-28 14:58:41: 覆盖复制 'D:/Projects/SymbianPython/python_working/tools.py' -> 'mtp://S60_Handset/Memory card (ESD-ISO)/Python/tools.py'
+2017-08-28 14:58:41: 覆盖复制 'D:/Projects/SymbianPython/python_working/util.py' -> 'mtp://S60_Handset/Memory card (ESD-ISO)/Python/util.py'
+2017-08-28 14:58:41: 新建复制 'D:/Projects/SymbianPython/python_working/white-list.cfg' -> 'mtp://S60_Handset/Memory card (ESD-ISO)/Python/white-list.cfg'
+2017-08-28 14:58:41: ===== ：同步完毕。时间：00:01:55，速度： 26.3 KB/s =====, 项目同步未必： 175，错误： 
+2017-08-28 14:58:41: 

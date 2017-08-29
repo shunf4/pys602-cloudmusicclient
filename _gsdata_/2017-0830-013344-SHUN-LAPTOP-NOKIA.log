@@ -1,0 +1,11 @@
+2017-08-30 01:33:45: -- Analysis Started by On File Change Incremental
+2017-08-30 01:33:45: 变更：1， 冲突：， 复制时间：， 复制状态：， 错误： , All: 228
+2017-08-30 01:33:45: Left to Right: Copy File: 1 
+2017-08-30 01:33:46: == Sync Started by On File Change Incremental
+2017-08-30 01:33:46: File Monitoring not available on: mtp://S60_Handset/Memory card (ESD-ISO)/Python
+2017-08-30 01:33:46: 
+2017-08-30 01:33:46:  检查连接情况：检测到已连接，执行分析操作
+2017-08-30 01:33:47: D:/Projects/SymbianPython/python_working/default.py: Source file has changed between Analyze and Sync from '[file] size=90,717 accu-time=2017-08-30 01:33:43 attr=Archive' to 'size=90,727 time=2017-08-30 01:33:45', noted in source file state
+2017-08-30 01:33:47: 覆盖复制 'D:/Projects/SymbianPython/python_working/default.py' -> 'mtp://S60_Handset/Memory card (ESD-ISO)/Python/default.py'
+2017-08-30 01:33:47: ===== ：同步完毕。时间：00:00:01，速度： 88.6 KB/s =====, 项目同步未必： 1，错误： 
+2017-08-30 01:33:47: 

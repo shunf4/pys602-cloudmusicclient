@@ -1,0 +1,8 @@
+2017-08-30 02:03:42: -- Analysis Started by On File Change Incremental
+2017-08-30 02:03:42: 变更：2， 冲突：， 复制时间：， 复制状态：， 错误： , All: 240
+2017-08-30 02:03:42: Left to Right: Delete File: 2 
+2017-08-30 02:03:42: == Sync Started by On File Change Incremental
+2017-08-30 02:03:42: 删除文件 'mtp://S60_Handset/Memory card (ESD-ISO)/Python/env/s60v3/pips.sisx'
+2017-08-30 02:03:42: 删除文件 'mtp://S60_Handset/Memory card (ESD-ISO)/Python/env/s60v3/pips_compact.sis'
+2017-08-30 02:03:43: ===== ：同步完毕。时间：00:00:01，速度： 0 字节/s =====, 项目同步未必： 2，错误： 
+2017-08-30 02:03:43: 

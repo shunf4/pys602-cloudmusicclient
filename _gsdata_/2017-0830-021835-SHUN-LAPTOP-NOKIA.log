@@ -1,0 +1,12 @@
+2017-08-30 02:18:36: -- Analysis Started by On File Change Incremental
+2017-08-30 02:18:36: 变更：6， 冲突：， 复制时间：， 复制状态：， 错误： , All: 248
+2017-08-30 02:18:36: Left to Right: Copy File: 6 
+2017-08-30 02:18:36: == Sync Started by On File Change Incremental
+2017-08-30 02:18:36: 创建文件夹 'mtp://S60_Handset/Memory card (ESD-ISO)/Python/sis'
+2017-08-30 02:18:36: 创建文件夹 'mtp://S60_Handset/Memory card (ESD-ISO)/Python/sis/sys'
+2017-08-30 02:18:37: 创建文件夹 'mtp://S60_Handset/Memory card (ESD-ISO)/Python/sis/sys/bin'
+2017-08-30 02:18:37: 新建复制 'D:/Projects/SymbianPython/python_working/sis/sys/bin/kf__AES_fd8f9a7f.pyd' -> 'mtp://S60_Handset/Memory card (ESD-ISO)/Python/sis/sys/bin/kf__AES_fd8f9a7f.pyd'
+2017-08-30 02:18:37: 新建复制 'D:/Projects/SymbianPython/python_working/sis/sys/bin/kf__appuifw2_fd8f9a7f.pyd' -> 'mtp://S60_Handset/Memory card (ESD-ISO)/Python/sis/sys/bin/kf__appuifw2_fd8f9a7f.pyd'
+2017-08-30 02:18:37: 新建复制 'D:/Projects/SymbianPython/python_working/sis/sys/bin/kf_cfileman_fd8f9a7f.pyd' -> 'mtp://S60_Handset/Memory card (ESD-ISO)/Python/sis/sys/bin/kf_cfileman_fd8f9a7f.pyd'
+2017-08-30 02:18:37: ===== ：同步完毕。时间：00:00:01，速度： 49.2 KB/s =====, 项目同步未必： 6，错误： 
+2017-08-30 02:18:37: 

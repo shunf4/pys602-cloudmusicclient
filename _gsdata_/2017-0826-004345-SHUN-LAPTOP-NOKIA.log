@@ -1,0 +1,7 @@
+2017-08-26 00:43:46: -- Analysis Started by On File Change Incremental
+2017-08-26 00:43:46: 变更：2， 冲突：， 复制时间：， 复制状态：， 错误： , All: 194
+2017-08-26 00:43:46: Left to Right: Rename/Move File/Folder: 2 
+2017-08-26 00:43:46: == Sync Started by On File Change Incremental
+2017-08-26 00:43:47: 移动文件 mtp://S60_Handset/Memory card (ESD-ISO)/Private/fd8f9a7e/LIB/simplejson/__init__ - 副本.py -> mtp://S60_Handset/Memory card (ESD-ISO)/Private/fd8f9a7e/LIB/simplejson/simplejson.py
+2017-08-26 00:43:47: ===== ：同步完毕。时间：00:00:01，速度： 512 字节/s =====, 项目同步未必： 2，错误： 
+2017-08-26 00:43:47: 

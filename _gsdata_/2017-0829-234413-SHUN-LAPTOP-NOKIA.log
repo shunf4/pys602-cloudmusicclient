@@ -1,0 +1,14 @@
+2017-08-29 23:44:14: GetInfo on Folder to check: mtp://S60_Handset/Memory card (ESD-ISO)/Python: Device disconnected. Check your USB cable.
+2017-08-29 23:44:14: File Monitoring stopped on: mtp://S60_Handset/Memory card (ESD-ISO)/Python: GetInfo on Folder to check: mtp://S60_Handset/Memory card (ESD-ISO)/Python: Device disconnected. Check your USB cable.
+2017-08-29 23:44:14: File Monitoring on: mtp://S60_Handset/Memory card (ESD-ISO)/Python: GetInfo on Folder to check: mtp://S60_Handset/Memory card (ESD-ISO)/Python: Device disconnected. Check your USB cable.
+2017-08-29 23:44:14: ：检查连接情况：已检测到连接断开：GetInfo on Folder to check: mtp://S60_Handset/Memory card (ESD-ISO)/Python: Device disconnected. Check your USB cable.
+2017-08-29 23:44:14: File Monitoring not available on: mtp://S60_Handset/Memory card (ESD-ISO)/Python
+2017-08-29 23:44:14: 
+2017-08-29 23:44:14:  检查连接情况：检测到已连接，执行分析操作
+2017-08-29 23:44:15: -- Analysis Started by On File Change Incremental
+2017-08-29 23:44:16: 变更：1， 冲突：， 复制时间：， 复制状态：， 错误： , All: 227
+2017-08-29 23:44:16: Left to Right: Copy File: 1 
+2017-08-29 23:44:16: == Sync Started by On File Change Incremental
+2017-08-29 23:44:17: 覆盖复制 'D:/Projects/SymbianPython/python_working/playlist.py' -> 'mtp://S60_Handset/Memory card (ESD-ISO)/Python/playlist.py'
+2017-08-29 23:44:17: ===== ：同步完毕。时间：00:00:01，速度： 24.3 KB/s =====, 项目同步未必： 1，错误： 
+2017-08-29 23:44:17: 

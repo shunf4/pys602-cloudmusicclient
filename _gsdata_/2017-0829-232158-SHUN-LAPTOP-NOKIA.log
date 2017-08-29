@@ -1,0 +1,9 @@
+2017-08-29 23:22:00: -- Analysis Started by On File Change Incremental
+2017-08-29 23:22:00: 变更：1， 冲突：， 复制时间：， 复制状态：， 错误： , All: 227
+2017-08-29 23:22:00: Left to Right: Copy File: 1 
+2017-08-29 23:22:00: == Sync Started by On File Change Incremental
+2017-08-29 23:22:01: D:\Projects\SymbianPython\python_working\neapi.py: Downloaded 54389 bytes, LESS than expected 54405 bytes
+2017-08-29 23:22:02: 覆盖复制 'D:/Projects/SymbianPython/python_working/neapi.py' -> 'mtp://S60_Handset/Memory card (ESD-ISO)/Python/neapi.py'
+- 错误: Copying file: On upload (Commit): 操作已被用户取消。  (error 0x800704C7)
+2017-08-29 23:22:02: ===== ：同步完毕。时间：00:00:02，速度： 26.5 KB/s =====, 项目同步未必： ，错误： 1
+2017-08-29 23:22:02: 

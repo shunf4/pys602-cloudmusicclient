@@ -1,0 +1,9 @@
+2017-08-29 23:01:29: -- Analysis Started by On File Change Incremental
+2017-08-29 23:01:30: 变更：3， 冲突：， 复制时间：， 复制状态：， 错误： , All: 227
+2017-08-29 23:01:30: Left to Right: Copy File: 3 
+2017-08-29 23:01:30: == Sync Started by On File Change Incremental
+2017-08-29 23:01:30: 覆盖复制 'D:/Projects/SymbianPython/python_working/api0.txt' -> 'mtp://S60_Handset/Memory card (ESD-ISO)/Python/api0.txt'
+2017-08-29 23:01:31: 覆盖复制 'D:/Projects/SymbianPython/python_working/demo.py' -> 'mtp://S60_Handset/Memory card (ESD-ISO)/Python/demo.py'
+2017-08-29 23:01:31: 覆盖复制 'D:/Projects/SymbianPython/python_working/localdata.txt' -> 'mtp://S60_Handset/Memory card (ESD-ISO)/Python/localdata.txt'
+2017-08-29 23:01:31: ===== ：同步完毕。时间：00:00:01，速度： 4.78 KB/s =====, 项目同步未必： 3，错误： 
+2017-08-29 23:01:31: 

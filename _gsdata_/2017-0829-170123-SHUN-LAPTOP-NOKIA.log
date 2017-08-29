@@ -1,0 +1,11 @@
+2017-08-29 17:01:25: -- Analysis Started by On File Change Incremental
+2017-08-29 17:01:25: 变更：2， 冲突：， 复制时间：， 复制状态：， 错误： , All: 223
+2017-08-29 17:01:25: Left to Right: Copy File: 2 
+2017-08-29 17:01:25: == Sync Started by On File Change Incremental
+2017-08-29 17:01:25: D:\Projects\SymbianPython\python_working\api1.txt: Downloaded 556724 bytes, MORE than expected 556634 bytes
+2017-08-29 17:01:27: 新建复制 'D:/Projects/SymbianPython/python_working/api1.txt' -> 'mtp://S60_Handset/Memory card (ESD-ISO)/Python/api1.txt'
+- 错误: Copying file: File upload (Write): 传递给系统调用的数据区域太小。  (error 0x8007007A)
+2017-08-29 17:01:28: D:/Projects/SymbianPython/python_working/localdata.txt: Source file has changed between Analyze and Sync from '[file] size=1,223 accu-time=2017-08-29 17:01:24 attr=Archive' to 'size=1,223 time=2017-08-29 17:01:27', noted in source file state
+2017-08-29 17:01:28: 覆盖复制 'D:/Projects/SymbianPython/python_working/localdata.txt' -> 'mtp://S60_Handset/Memory card (ESD-ISO)/Python/localdata.txt'
+2017-08-29 17:01:28: ===== ：同步完毕。时间：00:00:03，速度： 407 字节/s =====, 项目同步未必： 1，错误： 1
+2017-08-29 17:01:28: 

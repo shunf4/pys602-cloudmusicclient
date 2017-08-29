@@ -1,0 +1,9 @@
+2017-08-29 01:05:34: -- Analysis Started by On File Change Incremental
+2017-08-29 01:05:35: 变更：1， 冲突：， 复制时间：， 复制状态：， 错误： , All: 222
+2017-08-29 01:05:35: Left to Right: Copy File: 1 
+2017-08-29 01:05:35: == Sync Started by On File Change Incremental
+2017-08-29 01:07:07: D:\Projects\SymbianPython\python_working\default.py: Downloaded 88642 bytes, LESS than expected 88667 bytes
+2017-08-29 01:07:07: 覆盖复制 'D:/Projects/SymbianPython/python_working/default.py' -> 'mtp://S60_Handset/Memory card (ESD-ISO)/Python/default.py'
+- 错误: Copying file: On upload (Commit): 操作已被用户取消。  (error 0x800704C7)
+2017-08-29 01:07:07: ===== ：同步完毕。时间：00:01:32，速度： 963 字节/s =====, 项目同步未必： ，错误： 1
+2017-08-29 01:07:07: 

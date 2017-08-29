@@ -1,0 +1,7 @@
+2017-08-29 01:36:35: -- Analysis Started by On File Change Incremental
+2017-08-29 01:36:35: 变更：1， 冲突：， 复制时间：， 复制状态：， 错误： , All: 222
+2017-08-29 01:36:35: Left to Right: Copy File: 1 
+2017-08-29 01:36:35: == Sync Started by On File Change Incremental
+2017-08-29 01:36:36: 覆盖复制 'D:/Projects/SymbianPython/python_working/LIB/audio_compatible.py' -> 'mtp://S60_Handset/Memory card (ESD-ISO)/Python/LIB/audio_compatible.py'
+2017-08-29 01:36:36: ===== ：同步完毕。时间：00:00:01，速度： 4.71 KB/s =====, 项目同步未必： 1，错误： 
+2017-08-29 01:36:36: 

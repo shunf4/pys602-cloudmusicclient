@@ -1,0 +1,23 @@
+2017-08-25 22:00:14: -- Analysis Started by User Command
+2017-08-25 22:00:19: /default.py: L:Body<>; R:Body<>; 冲突：文件两侧都进行了改动
+2017-08-25 22:00:19: /launcher.py: L:Body<>; R:Body<>; 冲突：文件两侧都进行了改动
+2017-08-25 22:00:19: /lib.zip: 警告：旧文件将替换新文件
+2017-08-25 22:00:19: 分析完毕并发现冲突情况。如需解决冲突请选择正常的同步方向。
+2017-08-25 22:00:19: 变更：6， 冲突：2， 复制时间：， 复制状态：， 错误： , All: 183
+2017-08-25 22:00:19: Left to Right: Copy File: 1 Delete File: 1 
+2017-08-25 22:00:19: Right to Left: Copy File: 2 
+2017-08-25 22:00:19: ----- ：分析已结束。 历时 00:00:09， 速度： 17 个文件/秒 -----
+2017-08-25 22:00:19: 
+2017-08-25 22:00:24: === User Changed Action from 'CONFLICT' to 'COPY_FILE_LTOR' on item /default.py
+2017-08-25 22:00:24: Done.
+2017-08-25 22:00:25: === User Changed Action from 'CONFLICT' to 'COPY_FILE_LTOR' on item /launcher.py
+2017-08-25 22:00:25: Done.
+2017-08-25 22:00:29: == Sync Started by User Command
+2017-08-25 22:00:29: 删除文件 'mtp://S60_Handset/Memory card (ESD-ISO)/Private/fd8f9a7e/default.py_'
+2017-08-25 22:01:44: 新建复制 'D:/Projects/SymbianPython/python/2.demo.py' -> 'mtp://S60_Handset/Memory card (ESD-ISO)/Private/fd8f9a7e/2.demo.py'
+2017-08-25 22:01:45: 覆盖复制 'D:/Projects/SymbianPython/python/default.py' -> 'mtp://S60_Handset/Memory card (ESD-ISO)/Private/fd8f9a7e/default.py' (User Action)
+2017-08-25 22:01:46: 覆盖复制 'D:/Projects/SymbianPython/python/launcher.py' -> 'mtp://S60_Handset/Memory card (ESD-ISO)/Private/fd8f9a7e/launcher.py' (User Action)
+2017-08-25 22:01:46: 覆盖复制 'mtp://S60_Handset/Memory card (ESD-ISO)/Private/fd8f9a7e/lib.zip' -> 'D:/Projects/SymbianPython/python/lib.zip'
+2017-08-25 22:01:46: 覆盖复制 'mtp://S60_Handset/Memory card (ESD-ISO)/Private/fd8f9a7e/white-list.cfg' -> 'D:/Projects/SymbianPython/python/white-list.cfg'
+2017-08-25 22:01:46: ===== ：同步完毕。时间：00:01:17，速度： 1.18 KB/s =====, 项目同步未必： 6，错误： 
+2017-08-25 22:01:46: 

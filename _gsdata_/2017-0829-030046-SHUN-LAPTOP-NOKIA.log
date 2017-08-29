@@ -1,0 +1,9 @@
+2017-08-29 03:00:48: -- Analysis Started by On File Change Incremental
+2017-08-29 03:00:48: 变更：1， 冲突：， 复制时间：， 复制状态：， 错误： , All: 222
+2017-08-29 03:00:48: Left to Right: Copy File: 1 
+2017-08-29 03:00:48: == Sync Started by On File Change Incremental
+2017-08-29 03:00:49: D:\Projects\SymbianPython\python_working\LIB\audio_compatible.py: Downloaded 6179 bytes, MORE than expected 6140 bytes
+2017-08-29 03:00:50: 覆盖复制 'D:/Projects/SymbianPython/python_working/LIB/audio_compatible.py' -> 'mtp://S60_Handset/Memory card (ESD-ISO)/Python/LIB/audio_compatible.py'
+- 错误: Copying file: File upload (Write): 传递给系统调用的数据区域太小。  (error 0x8007007A)
+2017-08-29 03:00:50: ===== ：同步完毕。时间：00:00:02，速度： 3.01 KB/s =====, 项目同步未必： ，错误： 1
+2017-08-29 03:00:50: 

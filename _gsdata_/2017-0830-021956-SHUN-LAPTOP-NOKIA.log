@@ -1,0 +1,8 @@
+2017-08-30 02:19:57: -- Analysis Started by On File Change Incremental
+2017-08-30 02:19:57: 变更：2， 冲突：， 复制时间：， 复制状态：， 错误： , All: 252
+2017-08-30 02:19:57: Left to Right: Delete File: 2 
+2017-08-30 02:19:57: == Sync Started by On File Change Incremental
+2017-08-30 02:19:57: 删除文件夹 'mtp://S60_Handset/Memory card (ESD-ISO)/Python/sis/c_resource/python25'
+2017-08-30 02:19:57: 删除文件夹 'mtp://S60_Handset/Memory card (ESD-ISO)/Python/sis/c_resource'
+2017-08-30 02:19:57: ===== ：同步完毕。时间：00:00:00，速度： 0 字节/s =====, 项目同步未必： 2，错误： 
+2017-08-30 02:19:57: 
