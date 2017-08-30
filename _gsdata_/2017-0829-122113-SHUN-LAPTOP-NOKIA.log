@@ -1,7 +1,0 @@
-2017-08-29 12:21:14: -- Analysis Started by On File Change Incremental
-2017-08-29 12:21:15: 变更：1， 冲突：， 复制时间：， 复制状态：， 错误： , All: 223
-2017-08-29 12:21:15: Left to Right: Copy File: 1 
-2017-08-29 12:21:15: == Sync Started by On File Change Incremental
-2017-08-29 12:21:15: 覆盖复制 'D:/Projects/SymbianPython/python_working/LIB/graphics_compatible.py' -> 'mtp://S60_Handset/Memory card (ESD-ISO)/Python/LIB/graphics_compatible.py'
-2017-08-29 12:21:15: ===== ：同步完毕。时间：00:00:00，速度： 0 字节/s =====, 项目同步未必： 1，错误： 
-2017-08-29 12:21:15: 

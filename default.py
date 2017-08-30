@@ -1,4 +1,5 @@
 # -*- coding=utf-8 -*-
+globalProgUpdate("启动第一批模块…")
 import appuifw as appuifw_old
 import appuifw2_fd8f9a7f as appuifw
 
@@ -42,10 +43,6 @@ if MAIN_ON_SIS:
 import tools
 from tools import s, us
 
-# if sys.path[1].find('neteaseDebug') == -1:
-#     sys.path[1:1] = [os.path.abspath("e:\\neteaseDebug")]
-
-# sys.path[0:0] = [os.path.abspath("e:\\python")]
 import util
 from util import *
 
@@ -58,7 +55,10 @@ if MAIN_ON_PYCON:
     reload(util)
     reload(tools)
 
+globalProgUpdate("文件夹…")
 createFolders(globals())
+
+globalProgUpdate("日志句柄…")
 
 logHandler = logging.FileHandler(pj(MAIN_DEBUG_FOLDER, "log.txt"), mode="w")
 logHandler.setFormatter(LOG_FORMATTER)
@@ -79,40 +79,41 @@ mainLogger.addHandler(logHandler)
 logs = mainLogger.info
 
 foreground = True
-def switchForeground_(whetherForeground):
-    global foreground
-    if whetherForeground:
-        foreground = True
-        splashScreen.show()
-    else:
-        foreground = False
-        splashScreen.hide()
+# def switchForeground_(whetherForeground):
+#     global foreground, splashScreen
+#     if whetherForeground:
+#         foreground = True
+#         splashScreen.show()
+#     else:
+#         foreground = False
+#         splashScreen.hide()
 
+# globalProgUpdate("SPLASH…")
 #程序开始时，先显示splash Screen
-splashScreen = TopWindow.TopWindow()
-splashScreen.size = (200,65)
+# splashScreen = TopWindow.TopWindow()
+# splashScreen.size = (200,65)
 
 CANVASSIZE=appuifw.Canvas().size
 (screen_x, screen_y) = CANVASSIZE
-splashScreen.position = (CANVASSIZE[0] / 2 - 100, CANVASSIZE[1] / 2 - 32)
+# splashScreen.position = (CANVASSIZE[0] / 2 - 100, CANVASSIZE[1] / 2 - 32)
 
-splashScreen.background_color=0xffffff
-splashScreen.add_image(graphics.Image.open(pj(MAIN_CURR_FOLDER, '\\pic\\SplashScreen.scale-100.bmp')), (0,0))
-splashScreen.show()
-appuifw.app.focus = switchForeground_
+# splashScreen.background_color=0xffffff
+# splashScreen.add_image(graphics.Image.open(pj(MAIN_CURR_FOLDER, '\\pic\\SplashScreen.scale-100.bmp')), (0,0))
+# splashScreen.show()
+# appuifw.app.focus = switchForeground_
 
-aotimertmp = e32.Ao_timer()
-aotimertmp.after(0,lambda:appuifw.note(cn('程序加载中………')))
-logs(u'splashScreen Loaded')
+
+# logs(u'splashScreen Loaded')
 # import sys
 # import os
+globalProgUpdate("第二批模块…")
 
 import neapi
 import playlist
 import httplib
 #import socket_compat as socket
 import socket, btsocket
-socket.setdefaulttimeout(5)
+socket.setdefaulttimeout(8)
 import e32
 from audio_bugfix_vars import PY2_BUG_DELAY_TIME
 
@@ -130,6 +131,9 @@ if MAIN_ON_PYCON:
     reload(playlist)
 
 logs(u'modules Imported')
+
+globalProgUpdate("定义变量函数…")
+
 '''
 一些重要变量定义
 '''
@@ -1222,10 +1226,6 @@ def getLoginData():
     
     writeConfig()
     
-    file1=open('e:\\netease\\data\\cookie.txt','wb')
-    file1.write('')
-    file1.close()
-    
     return (username, password, cellphone)
 
 loadLocalDataF, writeLocalDataF = localDataFuncWrapper(pj(MAIN_NETEASE_FOLDER, "localdata.txt"), {"cookie": "", "clientToken" : "1_1UlfKAX7rcMafd1M0ndPFJPGITMgOexy_IZ8ivs4nXAGjweA4z6VEtLdEP143Y5Bg"})
@@ -1261,7 +1261,7 @@ def downProg_small(n,s,r,t):
         #     logs("End ao_yield-ing in function %s" % sys._getframe().f_code.co_name)
 
 def login():
-    global nma
+    global nma, clientToken
     logs('Start Logining')
     loginUsername = currConfig['username']
     if not loginUsername:
@@ -1287,6 +1287,7 @@ def login():
         })
 
     userCancelLogin = False
+    clientToken = ""
     while True:
         if userCancelLogin:
             break
@@ -1310,9 +1311,14 @@ def login():
             continue
         except neapi.NEApiBlockedByYundun:
             appuifw.query(s("token失效了。"), "query")
-            appuifw.query(s("请复制以下网址："), 'text', "http://www.shunwww.pw/neteasetoken.htm")
-            clientToken = appuifw.query(s("用匿名模式进入网址，粘贴token"), 'text', "")
-            if clientToken == '':
+            isCancel = appuifw.query(s("请复制以下网址："), 'text', u"http://www.shunwww.pw/neteasetoken.htm")
+            if isCancel is None:
+                #User Cancellation
+                userCancelLogin = True
+                appuifw.note(s("登录已取消"))
+                continue
+            clientToken = appuifw.query(s("用匿名模式进入网址，粘贴token"), 'text', u"")
+            if clientToken == '' or clientToken is None:
                 #User Cancellation
                 userCancelLogin = True
                 appuifw.note(s("登录已取消"))
@@ -2201,11 +2207,11 @@ def switchForeground(whetherForeground):
 
     else:
         foreground = False
-        splashScreen.hide()
+        #splashScreen.hide()
         
 logs(u'functions Defined')
 #正文开始
-
+globalProgUpdate("界面准备…")
 
 #设定好tabs和几个画图函数
 aolock = e32.Ao_lock()
@@ -2266,6 +2272,7 @@ tab[2] = mainCanvas
 tab[0] = appuifw.Text(cn('初始界面：选单'))
 tab[1] = playlistListbox
 
+globalProgUpdate("绘制界面…")
 initDraw()
 
 #开始载入用户界面
@@ -2278,10 +2285,13 @@ showCreatePLs = True
 
 tabKey[2][0] = menu1
 tabKey[1][0] = menu1
+globalProgUpdate("即将完成…")
+globalProg.finish()
 refreshAllTabs()
 changeTabs(2-1)
 redraw()
 
-splashScreen.hide()
+#splashScreen.hide()
+
 aolock.wait()
 #菜单载入完成

@@ -5,7 +5,9 @@ import time
 import traceback
 import StringIO
 import httplib
-import cfileman_fd8f9a7f as cfileman
+import imp
+cfileman = imp.load_dynamic("cfileman", "kf_cfileman_fd8f9a7f.pyd")
+# import cfileman_fd8f9a7f as cfileman
 import e32
 import appuifw2_fd8f9a7f as appuifw2
 import logging
@@ -65,6 +67,7 @@ def resetContinuousError():
 
 def errorAddFunc(sth):
     global continuousError
+
     if not continuousError:
         appuifw2.note(s("发生错误。若程序不能正常运行，请重新启动程序。"))
         appuifw2.note(s("查看文件夹E:\\NeteaseDebug2下的日志文件来排查错误。"))

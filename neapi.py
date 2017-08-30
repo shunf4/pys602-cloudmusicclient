@@ -641,7 +641,7 @@ class NEApi:
                 'password' : encodedPassword,
                 'rememberLogin' : 'true',
                 'csrf_token' : self.csrf,
-                'clientToken' : self.localData['clientToken']
+                'clientToken' : noneThen(self.localData['clientToken'],"")
             }
             loginURL = URL_LOGIN_EMAIL
         else:
@@ -667,14 +667,14 @@ class NEApi:
             
         if loginR['code'] == 200:
             self.logined = True
+            self.updateCookie(loginC)
+            self.setLocalDataItem("userProfile", loginR["profile"])
 
         if loginR['code'] == 502:
             raise NEApiWrongPassword("Login Failed for wrong username or password.")
 
         if loginR['code'] == 461:
             raise NEApiBlockedByYundun, "Blocked by yundun. Please change ClientToken."
-        self.updateCookie(loginC)
-        self.setLocalDataItem("userProfile", loginR["profile"])
 
     def getCaptchaURL(self):
         return u"%s?%s"%(URL_PROTOCOL + URL_HOST + URL_CAPTCHA_IMAGE,urllib.urlencode({'id' : self.captchaID}))

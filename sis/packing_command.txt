@@ -1,0 +1,1 @@
+python25 ensymble.py py2sis --appname py2NeteaseMusic --version 0.1.0 --lang ZH,EN,AM --icon D:/Projects/SymbianPython/python_working/Entry01.svg --caption "py2网易云音乐,py2 NeteaseMusic,py2 NeteaseMusic" --shortcaption "py2网易云,py2NCM,py2NCM" --uid 0xfd8f9a7f demo.1.py d:/Projects/SymbianPython/tempFiles/tmpPack.sis

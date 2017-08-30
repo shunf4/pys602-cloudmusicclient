@@ -1,7 +1,0 @@
-2017-08-25 22:07:31: -- Analysis Started by On File Change Incremental
-2017-08-25 22:07:31: 变更：1， 冲突：， 复制时间：， 复制状态：， 错误： , All: 183
-2017-08-25 22:07:31: Left to Right: Copy File: 1 
-2017-08-25 22:07:31: == Sync Started by On File Change Incremental
-2017-08-25 22:07:32: 覆盖复制 'D:/Projects/SymbianPython/python/tools.py' -> 'mtp://S60_Handset/Memory card (ESD-ISO)/Private/fd8f9a7e/tools.py'
-2017-08-25 22:07:32: ===== ：同步完毕。时间：00:00:01，速度： 1.20 KB/s =====, 项目同步未必： 1，错误： 
-2017-08-25 22:07:32: 

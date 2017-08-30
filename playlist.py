@@ -21,7 +21,8 @@ import re
 import logging
 
 try:
-    import cfileman_fd8f9a7f as cfileman
+    import imp
+    cfileman = imp.load_dynamic("cfileman", "kf_cfileman_fd8f9a7f.pyd")
 except ImportError:
     pass
 

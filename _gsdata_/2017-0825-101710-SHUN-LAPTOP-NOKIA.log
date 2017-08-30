@@ -1,7 +1,0 @@
-2017-08-25 10:17:12: -- Analysis Started by On File Change Incremental
-2017-08-25 10:17:12: 左侧: State File has changed, so re-read it: D:/Projects/SymbianPython/python/_gsdata_/_file_state_v4._gs
-2017-08-25 10:17:12: 变更：197， 冲突：， 复制时间：， 复制状态：12， 错误： , All: 303
-2017-08-25 10:17:12: Left to Right: Copy File: 197 
-2017-08-25 10:17:12: == Sync Started by On File Change Incremental
-2017-08-25 10:17:12: 65% (197 / 299) 个文件已更改，超过 50% 的限制。因此该任务将不再执行自动同步。
-2017-08-25 10:17:12: 

@@ -1,0 +1,27 @@
+; Languages
+&ZH, EN, AM
+
+; Package header
+#{"py2Õ¯“◊‘∆“Ù¿÷", "py2 NeteaseMusic", "py2 NeteaseMusic"}, (0xFD8F9A7F), 0, 1, 0, TYPE=SA
+
+; Dependencies
+[0x101F7961], 0, 0, 0, {"Series60ProductID", "Series60ProductID", "Series60ProductID"}
+[0x1028315F], 0, 0, 0, {"Series60ProductID", "Series60ProductID", "Series60ProductID"}
+(0x20022EE8), 2, 0, 0, {"Python runtime", "Python runtime", "Python runtime"}
+
+; Vendor names
+%{"Ensymble", "Ensymble", "Ensymble"}
+:"Ensymble"
+
+"resource\apps\py2NeteaseMusic_0xfd8f9a7f.rsc"-"!:\resource\apps\py2NeteaseMusic_0xfd8f9a7f.rsc"
+"private\10003a3f\import\apps\py2NeteaseMusic_0xfd8f9a7f_reg.rsc"-"!:\private\10003a3f\import\apps\py2NeteaseMusic_0xfd8f9a7f_reg.rsc"
+"resource\apps\py2NeteaseMusic_0xfd8f9a7f_loc.r31"-"!:\resource\apps\py2NeteaseMusic_0xfd8f9a7f_loc.r31"
+"resource\apps\py2NeteaseMusic_0xfd8f9a7f_loc.r01"-"!:\resource\apps\py2NeteaseMusic_0xfd8f9a7f_loc.r01"
+"resource\apps\py2NeteaseMusic_0xfd8f9a7f_loc.r10"-"!:\resource\apps\py2NeteaseMusic_0xfd8f9a7f_loc.r10"
+"resource\apps\py2NeteaseMusic_0xfd8f9a7f_aif.mif"-"!:\resource\apps\py2NeteaseMusic_0xfd8f9a7f_aif.mif"
+"private\fd8f9a7f\launcher.py"-"!:\private\fd8f9a7f\launcher.py"
+"private\fd8f9a7f\default.py"-"!:\private\fd8f9a7f\default.py"
+"sys\bin\kf_Py_iad_client_0xfd8f9a7f.dll"-"!:\sys\bin\kf_Py_iad_client_0xfd8f9a7f.dll"
+"sys\bin\py2NeteaseMusic_0xfd8f9a7f.exe"-"!:\sys\bin\py2NeteaseMusic_0xfd8f9a7f.exe"
+
+

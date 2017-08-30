@@ -1,9 +1,0 @@
-2017-08-29 03:29:09: -- Analysis Started by On File Change Incremental
-2017-08-29 03:29:09: 变更：1， 冲突：， 复制时间：， 复制状态：， 错误： , All: 222
-2017-08-29 03:29:09: Left to Right: Copy File: 1 
-2017-08-29 03:29:09: == Sync Started by On File Change Incremental
-2017-08-29 03:29:10: D:\Projects\SymbianPython\python_working\LIB\audio_compatible.py: Downloaded 4783 bytes, LESS than expected 4820 bytes
-2017-08-29 03:29:10: 覆盖复制 'D:/Projects/SymbianPython/python_working/LIB/audio_compatible.py' -> 'mtp://S60_Handset/Memory card (ESD-ISO)/Python/LIB/audio_compatible.py'
-- 错误: Copying file: On upload (Commit): 操作已被用户取消。  (error 0x800704C7)
-2017-08-29 03:29:10: ===== ：同步完毕。时间：00:00:01，速度： 4.67 KB/s =====, 项目同步未必： ，错误： 1
-2017-08-29 03:29:10: 

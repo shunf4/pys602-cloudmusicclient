@@ -1,8 +1,0 @@
-2017-08-25 00:24:21: On File Change Monitoring started on file:///Z:/Epoc32/winscw/E/python
-2017-08-25 00:24:22: -- Analysis Started by On File Change First Full Analyze Upon File Monitoring Start
-2017-08-25 00:24:22: 变更：1， 冲突：， 复制时间：， 复制状态：， 错误： , All: 102
-2017-08-25 00:24:22: Left to Right: Copy File: 1 
-2017-08-25 00:24:22: == Sync Started by On File Change First Full Analyze Upon File Monitoring Start
-2017-08-25 00:24:23: 覆盖复制 'Z:/Epoc32/winscw/E/python/2.demo.py' -> 'mtp://S60_Handset/Memory card (ESD-ISO)/PYTHON/2.demo.py'
-2017-08-25 00:24:23: ===== ：同步完毕。时间：00:00:01，速度： 69 字节/s =====, 项目同步未必： 1，错误： 
-2017-08-25 00:24:23: 

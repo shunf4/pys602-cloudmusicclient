@@ -1,7 +1,0 @@
-2017-08-28 15:58:58: -- Analysis Started by On File Change Incremental
-2017-08-28 15:58:58: 变更：1， 冲突：， 复制时间：， 复制状态：， 错误： , All: 219
-2017-08-28 15:58:58: Left to Right: Copy File: 1 
-2017-08-28 15:58:58: == Sync Started by On File Change Incremental
-2017-08-28 15:58:59: 覆盖复制 'D:/Projects/SymbianPython/python_working/.git/FETCH_HEAD' -> 'mtp://S60_Handset/Memory card (ESD-ISO)/Python/.git/FETCH_HEAD'
-2017-08-28 15:58:59: ===== ：同步完毕。时间：00:00:01，速度： 102 字节/s =====, 项目同步未必： 1，错误： 
-2017-08-28 15:58:59: 

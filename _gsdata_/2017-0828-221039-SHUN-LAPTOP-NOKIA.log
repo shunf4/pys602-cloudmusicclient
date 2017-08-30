@@ -1,8 +1,0 @@
-2017-08-28 22:10:41: -- Analysis Started by On File Change Incremental
-2017-08-28 22:10:41: 变更：2， 冲突：， 复制时间：， 复制状态：， 错误： , All: 222
-2017-08-28 22:10:41: Left to Right: Copy File: 2 
-2017-08-28 22:10:41: == Sync Started by On File Change Incremental
-2017-08-28 22:10:41: 覆盖复制 'D:/Projects/SymbianPython/python_working/localdata.txt' -> 'mtp://S60_Handset/Memory card (ESD-ISO)/Python/localdata.txt'
-2017-08-28 22:10:41: 覆盖复制 'D:/Projects/SymbianPython/python_working/neapi.pyc' -> 'mtp://S60_Handset/Memory card (ESD-ISO)/Python/neapi.pyc'
-2017-08-28 22:10:41: ===== ：同步完毕。时间：00:00:00，速度： 0 字节/s =====, 项目同步未必： 2，错误： 
-2017-08-28 22:10:41: 

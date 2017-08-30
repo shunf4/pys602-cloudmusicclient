@@ -1,9 +1,0 @@
-2017-08-25 23:12:53: -- Analysis Started by On File Change Incremental
-2017-08-25 23:12:53: 变更：1， 冲突：， 复制时间：， 复制状态：， 错误： , All: 183
-2017-08-25 23:12:53: Left to Right: Copy File: 1 
-2017-08-25 23:12:53: == Sync Started by On File Change Incremental
-2017-08-25 23:12:54: D:\Projects\SymbianPython\python\default.py: Downloaded 86148 bytes, MORE than expected 86147 bytes
-2017-08-25 23:12:55: 覆盖复制 'D:/Projects/SymbianPython/python/default.py' -> 'mtp://S60_Handset/Memory card (ESD-ISO)/Private/fd8f9a7e/default.py'
-- 错误: Copying file: File upload (Write): 传递给系统调用的数据区域太小。  (error 0x8007007A)
-2017-08-25 23:12:55: ===== ：同步完毕。时间：00:00:02，速度： 42.0 KB/s =====, 项目同步未必： ，错误： 1
-2017-08-25 23:12:55: 

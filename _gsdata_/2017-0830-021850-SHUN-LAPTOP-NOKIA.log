@@ -1,9 +1,0 @@
-2017-08-30 02:18:51: -- Analysis Started by On File Change Incremental
-2017-08-30 02:18:51: 变更：3， 冲突：， 复制时间：， 复制状态：， 错误： , All: 251
-2017-08-30 02:18:51: Left to Right: Copy File: 3 
-2017-08-30 02:18:51: == Sync Started by On File Change Incremental
-2017-08-30 02:18:51: 创建文件夹 'mtp://S60_Handset/Memory card (ESD-ISO)/Python/sis/c_resource'
-2017-08-30 02:18:51: 创建文件夹 'mtp://S60_Handset/Memory card (ESD-ISO)/Python/sis/c_resource/python25'
-2017-08-30 02:18:52: 新建复制 'D:/Projects/SymbianPython/python_working/sis/c_resource/python25/appuifw2_fd8f9a7f.py' -> 'mtp://S60_Handset/Memory card (ESD-ISO)/Python/sis/c_resource/python25/appuifw2_fd8f9a7f.py'
-2017-08-30 02:18:52: ===== ：同步完毕。时间：00:00:01，速度： 38.3 KB/s =====, 项目同步未必： 3，错误： 
-2017-08-30 02:18:52: 

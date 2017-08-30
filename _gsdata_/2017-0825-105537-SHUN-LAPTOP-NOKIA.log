@@ -1,7 +1,0 @@
-2017-08-25 10:55:38: -- Analysis Started by On File Change Incremental
-2017-08-25 10:55:38: 变更：1， 冲突：， 复制时间：， 复制状态：， 错误： , All: 110
-2017-08-25 10:55:38: Left to Right: Copy File: 1 
-2017-08-25 10:55:38: == Sync Started by On File Change Incremental
-2017-08-25 10:55:39: 覆盖复制 'D:/Projects/SymbianPython/python/playlist.py' -> 'mtp://S60_Handset/Memory card (ESD-ISO)/PYTHON/playlist.py'
-2017-08-25 10:55:39: ===== ：同步完毕。时间：00:00:01，速度： 20.4 KB/s =====, 项目同步未必： 1，错误： 
-2017-08-25 10:55:39: 

@@ -1,7 +1,0 @@
-2017-08-25 18:34:19: -- Analysis Started by On File Change Incremental
-2017-08-25 18:34:19: 变更：1， 冲突：， 复制时间：， 复制状态：， 错误： , All: 117
-2017-08-25 18:34:19: Left to Right: Copy File: 1 
-2017-08-25 18:34:19: == Sync Started by On File Change Incremental
-2017-08-25 18:34:20: 覆盖复制 'D:/Projects/SymbianPython/python/default.py' -> 'mtp://S60_Handset/Memory card (ESD-ISO)/PYTHON/default.py'
-2017-08-25 18:34:20: ===== ：同步完毕。时间：00:00:01，速度： 84.0 KB/s =====, 项目同步未必： 1，错误： 
-2017-08-25 18:34:20: 

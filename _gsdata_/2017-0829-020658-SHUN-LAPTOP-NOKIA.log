@@ -1,8 +1,0 @@
-2017-08-29 02:06:59: -- Analysis Started by On File Change Incremental
-2017-08-29 02:06:59: 变更：1， 冲突：， 复制时间：， 复制状态：， 错误： , All: 222
-2017-08-29 02:06:59: Left to Right: Copy File: 1 
-2017-08-29 02:06:59: == Sync Started by On File Change Incremental
-2017-08-29 02:07:00: D:/Projects/SymbianPython/python_working/LIB/audio_compatible.py: Source file has changed between Analyze and Sync from '[file] size=5,254 accu-time=2017-08-29 02:06:56 attr=Archive' to 'size=5,276 time=2017-08-29 02:06:59', noted in source file state
-2017-08-29 02:07:00: 覆盖复制 'D:/Projects/SymbianPython/python_working/LIB/audio_compatible.py' -> 'mtp://S60_Handset/Memory card (ESD-ISO)/Python/LIB/audio_compatible.py'
-2017-08-29 02:07:00: ===== ：同步完毕。时间：00:00:01，速度： 5.15 KB/s =====, 项目同步未必： 1，错误： 
-2017-08-29 02:07:00: 

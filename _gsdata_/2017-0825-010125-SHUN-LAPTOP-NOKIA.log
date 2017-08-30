@@ -1,7 +1,0 @@
-2017-08-25 01:01:26: -- Analysis Started by On File Change Incremental
-2017-08-25 01:01:26: 变更：1， 冲突：， 复制时间：， 复制状态：， 错误： , All: 103
-2017-08-25 01:01:26: Left to Right: Name Case Change: 1 
-2017-08-25 01:01:26: == Sync Started by On File Change Incremental
-2017-08-25 01:01:26: Change Name Case: 移动文件 mtp://S60_Handset/Memory card (ESD-ISO)/PYTHON/LIB/kf__ujson.PYD -> mtp://S60_Handset/Memory card (ESD-ISO)/PYTHON/LIB/kf__ujson.pyd
-2017-08-25 01:01:26: ===== ：同步完毕。时间：00:00:00，速度： 0 字节/s =====, 项目同步未必： 1，错误： 
-2017-08-25 01:01:27: 
